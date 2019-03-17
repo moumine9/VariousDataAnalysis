@@ -1,0 +1,1371 @@
+North American Industry Classification System (NAICS) (6),"Total, with employees", 1 to 4 employees, 5 to 9 employees, 10 to 19 employees, 20 to 49 employees, 50 to 99 employees, 100 to 199 employees, 200 to 499 employees, 500 plus employees
+"Total, all industries [1] ",26542,14432,5349,3448,2130,672,301,148,62
+Unclassified [2]  (7),1375,1103,167,72,21,9,3,0,0
+"Sub-total, classified [3] ",25167,13329,5182,3376,2109,663,298,148,62
+"Agriculture, forestry, fishing and hunting [11] ",2395,1733,426,159,59,10,6,2,0
+"Mining, quarrying, and oil and gas extraction [21] ",95,38,17,11,16,11,0,1,1
+Utilities [22] ,41,5,6,4,14,6,4,1,1
+Construction [23] ,2912,1653,612,357,210,57,20,2,1
+Manufacturing [31-33] ,821,275,161,129,118,59,40,32,7
+Wholesale trade [41] ,1126,480,254,222,126,33,9,2,0
+Retail trade [44-45] ,3430,1194,1026,680,371,94,47,15,3
+Transportation and warehousing [48-49] ,1409,900,206,126,91,56,15,11,4
+Information and cultural industries [51] ,285,105,69,40,41,14,5,9,2
+Finance and insurance [52] ,818,366,188,155,81,14,8,3,3
+Real estate and rental and leasing [53] ,822,569,142,68,32,6,4,1,0
+"Professional, scientific and technical services [54] ",1805,1307,227,162,71,28,6,3,1
+Management of companies and enterprises [55] ,194,103,23,18,25,10,4,9,2
+"Administrative and support, waste management and remediation services [56] ",905,463,173,113,85,29,25,6,11
+Educational services [61] ,234,96,49,32,26,18,4,4,5
+Health care and social assistance [62] ,2864,1599,560,376,182,76,47,14,10
+"Arts, entertainment and recreation [71] ",425,204,101,58,44,9,6,3,0
+Accommodation and food services [72] ,1777,518,402,403,355,77,16,6,0
+Other services (except public administration) [81] ,2475,1669,490,199,87,21,7,2,0
+Public administration [91] ,334,52,50,64,75,35,25,22,11
+Crop production [111] ,412,197,113,73,25,2,2,0,0
+Animal production and aquaculture [112] ,274,181,62,25,3,0,2,1,0
+Forestry and logging [113] ,397,254,95,32,12,3,0,1,0
+"Fishing, hunting and trapping [114] ",1197,1046,129,14,8,0,0,0,0
+Support activities for agriculture and forestry [115] ,115,55,27,15,11,5,2,0,0
+Oil and gas extraction [211] ,3,1,1,1,0,0,0,0,0
+Mining and quarrying (except oil and gas) [212] ,50,8,13,5,13,10,0,1,0
+"Support activities for mining, and oil and gas extraction [213] ",42,29,3,5,3,1,0,0,1
+Utilities [221] ,41,5,6,4,14,6,4,1,1
+Construction of buildings [236] ,918,543,210,97,55,7,4,2,0
+Heavy and civil engineering construction [237] ,221,112,33,28,22,18,8,0,0
+Specialty trade contractors [238] ,1773,998,369,232,133,32,8,0,1
+Food manufacturing [311] ,143,27,29,22,17,12,16,15,5
+Beverage and tobacco product manufacturing [312] ,19,9,5,1,2,0,2,0,0
+Textile mills [313] ,9,6,1,1,1,0,0,0,0
+Textile product mills [314] ,15,6,3,2,3,1,0,0,0
+Clothing manufacturing [315] ,10,6,1,1,2,0,0,0,0
+Leather and allied product manufacturing [316] ,2,1,1,0,0,0,0,0,0
+Wood product manufacturing [321] ,120,34,16,22,24,10,9,5,0
+Paper manufacturing [322] ,19,2,3,0,2,2,3,6,1
+Printing and related support activities [323] ,37,16,15,3,3,0,0,0,0
+Petroleum and coal product manufacturing [324] ,8,3,1,0,3,0,0,1,0
+Chemical manufacturing [325] ,19,3,5,9,2,0,0,0,0
+Plastics and rubber products manufacturing [326] ,38,6,5,10,6,7,3,1,0
+Non-metallic mineral product manufacturing [327] ,56,17,19,5,10,5,0,0,0
+Primary metal manufacturing [331] ,3,0,0,1,1,0,0,1,0
+Fabricated metal product manufacturing [332] ,93,38,14,17,12,9,1,1,1
+Machinery manufacturing [333] ,34,10,5,7,8,1,3,0,0
+Computer and electronic product manufacturing [334] ,16,4,5,1,3,2,1,0,0
+"Electrical equipment, appliance and component manufacturing [335] ",4,1,2,0,1,0,0,0,0
+Transportation equipment manufacturing [336] ,26,14,3,2,3,3,1,0,0
+Furniture and related product manufacturing [337] ,61,28,8,15,7,2,1,0,0
+Miscellaneous manufacturing [339] ,89,44,20,10,8,5,0,2,0
+Farm product merchant wholesalers [411] ,7,3,0,2,1,1,0,0,0
+Petroleum and petroleum products merchant wholesalers [412] ,30,2,7,3,17,1,0,0,0
+"Food, beverage and tobacco merchant wholesalers [413] ",185,73,33,32,27,13,5,2,0
+Personal and household goods merchant wholesalers [414] ,46,26,10,5,4,0,1,0,0
+Motor vehicle and motor vehicle parts and accessories merchant wholesalers [415] ,114,26,31,35,14,8,0,0,0
+Building material and supplies merchant wholesalers [416] ,212,82,67,49,12,2,0,0,0
+"Machinery, equipment and supplies merchant wholesalers [417] ",292,121,74,58,37,1,1,0,0
+Miscellaneous merchant wholesalers [418] ,137,74,22,28,8,4,1,0,0
+"Business-to-business electronic markets, and agents and brokers [419] ",103,73,10,10,6,3,1,0,0
+Motor vehicle and parts dealers [441] ,425,141,77,103,83,17,4,0,0
+Furniture and home furnishings stores [442] ,145,57,44,24,17,3,0,0,0
+Electronics and appliance stores [443] ,160,72,66,11,8,3,0,0,0
+Building material and garden equipment and supplies dealers [444] ,244,86,55,40,52,4,6,1,0
+Food and beverage stores [445] ,543,166,157,101,58,29,28,4,0
+Health and personal care stores [446] ,304,85,89,58,56,16,0,0,0
+Gasoline stations [447] ,377,90,141,125,20,1,0,0,0
+Clothing and clothing accessories stores [448] ,460,161,202,74,15,8,0,0,0
+"Sporting goods, hobby, book and music stores [451] ",135,55,43,17,17,1,2,0,0
+General merchandise stores [452] ,199,30,48,70,23,9,6,10,3
+Miscellaneous store retailers [453] ,312,180,70,43,16,3,0,0,0
+Non-store retailers [454] ,126,71,34,14,6,0,1,0,0
+Air transportation [481] ,12,9,0,2,0,0,0,1,0
+Rail transportation [482] ,10,4,2,0,1,2,0,0,1
+Water transportation [483] ,11,3,1,1,1,2,1,1,1
+Truck transportation [484] ,951,678,125,77,39,25,4,3,0
+Transit and ground passenger transportation [485] ,39,12,9,9,6,2,0,1,0
+Pipeline transportation [486] ,6,4,0,1,0,0,0,0,1
+Scenic and sightseeing transportation [487] ,13,8,4,1,0,0,0,0,0
+Support activities for transportation [488] ,203,103,34,17,25,20,2,2,0
+Postal service [491] ,9,3,1,1,1,0,2,0,1
+Couriers and messengers [492] ,104,57,19,10,10,3,2,3,0
+Warehousing and storage [493] ,51,19,11,7,8,2,4,0,0
+Publishing industries (except internet) [511] ,77,29,7,8,28,2,0,2,1
+Motion picture and sound recording industries [512] ,45,23,8,7,0,7,0,0,0
+Broadcasting (except internet) [515] ,52,11,23,11,4,1,0,2,0
+Telecommunications [517] ,44,6,13,10,4,4,5,1,1
+"Data processing, hosting, and related services [518] ",21,11,2,2,3,0,0,3,0
+Other information services [519] ,46,25,16,2,2,0,0,1,0
+Monetary authorities - central bank [521] ,0,0,0,0,0,0,0,0,0
+Credit intermediation and related activities [522] ,301,61,78,101,52,5,4,0,0
+"Securities, commodity contracts, and other financial investment and related activities [523] ",199,144,23,23,5,1,2,0,1
+Insurance carriers and related activities [524] ,305,154,86,29,23,8,1,3,1
+Funds and other financial vehicles [526] ,13,7,1,2,1,0,1,0,1
+Real estate [531] ,680,504,100,42,23,6,4,1,0
+Rental and leasing services [532] ,135,62,41,25,7,0,0,0,0
+Lessors of non-financial intangible assets (except copyrighted works) [533] ,7,3,1,1,2,0,0,0,0
+"Professional, scientific and technical services [541] ",1805,1307,227,162,71,28,6,3,1
+Management of companies and enterprises [551] ,194,103,23,18,25,10,4,9,2
+Administrative and support services [561] ,806,415,154,98,71,26,25,6,11
+Waste management and remediation services [562] ,99,48,19,15,14,3,0,0,0
+Educational services [611] ,234,96,49,32,26,18,4,4,5
+Ambulatory health care services [621] ,1821,1322,300,132,48,11,5,1,2
+Hospitals [622] ,45,6,1,1,7,9,8,5,8
+Nursing and residential care facilities [623] ,474,95,119,132,59,39,25,5,0
+Social assistance [624] ,524,176,140,111,68,17,9,3,0
+"Performing arts, spectator sports and related industries [711] ",89,51,17,8,10,1,1,1,0
+Heritage institutions [712] ,69,33,20,4,8,2,2,0,0
+"Amusement, gambling and recreation industries [713] ",267,120,64,46,26,6,3,2,0
+Accommodation services [721] ,340,139,59,69,51,11,8,3,0
+Food services and drinking places [722] ,1437,379,343,334,304,66,8,3,0
+Repair and maintenance [811] ,856,605,155,61,29,3,3,0,0
+Personal and laundry services [812] ,402,232,113,37,16,4,0,0,0
+"Religious, grant-making, civic, and professional and similar organizations [813] ",1177,801,214,101,41,14,4,2,0
+Private households [814] ,40,31,8,0,1,0,0,0,0
+Federal government public administration [911] ,40,10,5,3,6,3,2,5,6
+Provincial and territorial public administration [912] ,131,19,18,27,32,18,7,7,3
+"Local, municipal and regional public administration [913] ",144,23,26,32,32,13,10,6,2
+Aboriginal public administration [914] ,18,0,0,2,5,1,6,4,0
+International and other extra-territorial public administration [919] ,1,0,1,0,0,0,0,0,0
+Oilseed and grain farming [1111] ,17,15,1,1,0,0,0,0,0
+Vegetable and melon farming [1112] ,145,39,53,39,14,0,0,0,0
+Fruit and tree nut farming [1113] ,85,46,25,8,6,0,0,0,0
+"Greenhouse, nursery and floriculture production [1114] ",49,27,7,8,3,2,2,0,0
+Other crop farming [1119] ,116,70,27,17,2,0,0,0,0
+Cattle ranching and farming [1121] ,151,110,31,9,1,0,0,0,0
+Hog and pig farming [1122] ,12,5,3,4,0,0,0,0,0
+Poultry and egg production [1123] ,27,11,12,3,1,0,0,0,0
+Sheep and goat farming [1124] ,3,3,0,0,0,0,0,0,0
+Aquaculture [1125] ,40,23,7,6,1,0,2,1,0
+Other animal production [1129] ,41,29,9,3,0,0,0,0,0
+Timber tract operations [1131] ,22,17,3,2,0,0,0,0,0
+Forest nurseries and gathering of forest products [1132] ,5,1,2,2,0,0,0,0,0
+Logging [1133] ,370,236,90,28,12,3,0,1,0
+Fishing [1141] ,1195,1044,129,14,8,0,0,0,0
+Hunting and trapping [1142] ,2,2,0,0,0,0,0,0,0
+Support activities for crop production [1151] ,17,9,5,2,1,0,0,0,0
+Support activities for animal production [1152] ,16,10,4,1,1,0,0,0,0
+Support activities for forestry [1153] ,82,36,18,12,9,5,2,0,0
+Oil and gas extraction [2111] ,3,1,1,1,0,0,0,0,0
+Coal mining [2121] ,0,0,0,0,0,0,0,0,0
+Metal ore mining [2122] ,0,0,0,0,0,0,0,0,0
+Non-metallic mineral mining and quarrying [2123] ,50,8,13,5,13,10,0,1,0
+"Support activities for mining, and oil and gas extraction [2131] ",42,29,3,5,3,1,0,0,1
+"Electric power generation, transmission and distribution [2211] ",31,3,4,3,12,3,4,1,1
+Natural gas distribution [2212] ,1,0,0,0,0,1,0,0,0
+"Water, sewage and other systems [2213] ",9,2,2,1,2,2,0,0,0
+Residential building construction [2361] ,739,474,165,70,24,4,1,1,0
+Non-residential building construction [2362] ,179,69,45,27,31,3,3,1,0
+Utility system construction [2371] ,67,33,12,9,10,3,0,0,0
+Land subdivision [2372] ,52,44,5,2,1,0,0,0,0
+"Highway, street and bridge construction [2373] ",76,22,14,11,9,14,6,0,0
+Other heavy and civil engineering construction [2379] ,26,13,2,6,2,1,2,0,0
+"Foundation, structure, and building exterior contractors [2381] ",338,157,94,46,29,11,1,0,0
+Building equipment contractors [2382] ,619,361,102,81,57,12,5,0,1
+Building finishing contractors [2383] ,413,265,90,36,17,4,1,0,0
+Other specialty trade contractors [2389] ,403,215,83,69,30,5,1,0,0
+Animal food manufacturing [3111] ,10,2,2,0,5,0,0,0,1
+Grain and oilseed milling [3112] ,1,0,0,1,0,0,0,0,0
+Sugar and confectionery product manufacturing [3113] ,4,1,0,1,0,1,0,1,0
+Fruit and vegetable preserving and specialty food manufacturing [3114] ,12,3,1,2,0,2,0,3,1
+Dairy product manufacturing [3115] ,3,0,1,0,0,1,1,0,0
+Meat product manufacturing [3116] ,7,3,1,0,0,0,3,0,0
+Seafood product preparation and packaging [3117] ,56,4,6,10,10,4,10,9,3
+Bakeries and tortilla manufacturing [3118] ,34,7,13,7,2,3,2,0,0
+Other food manufacturing [3119] ,16,7,5,1,0,1,0,2,0
+Beverage manufacturing [3121] ,19,9,5,1,2,0,2,0,0
+Tobacco manufacturing [3122] ,0,0,0,0,0,0,0,0,0
+"Fibre, yarn and thread mills [3131] ",2,0,1,0,1,0,0,0,0
+Fabric mills [3132] ,0,0,0,0,0,0,0,0,0
+Textile and fabric finishing and fabric coating [3133] ,7,6,0,1,0,0,0,0,0
+Textile furnishings mills [3141] ,0,0,0,0,0,0,0,0,0
+Other textile product mills [3149] ,15,6,3,2,3,1,0,0,0
+Clothing knitting mills [3151] ,0,0,0,0,0,0,0,0,0
+Cut and sew clothing manufacturing [3152] ,9,5,1,1,2,0,0,0,0
+Clothing accessories and other clothing manufacturing [3159] ,1,1,0,0,0,0,0,0,0
+Leather and hide tanning and finishing [3161] ,0,0,0,0,0,0,0,0,0
+Footwear manufacturing [3162] ,1,0,1,0,0,0,0,0,0
+Other leather and allied product manufacturing [3169] ,1,1,0,0,0,0,0,0,0
+Sawmills and wood preservation [3211] ,49,14,6,7,6,9,5,2,0
+"Veneer, plywood and engineered wood product manufacturing [3212] ",17,1,4,4,5,1,2,0,0
+Other wood product manufacturing [3219] ,54,19,6,11,13,0,2,3,0
+"Pulp, paper and paperboard mills [3221] ",8,1,0,0,0,0,2,4,1
+Converted paper product manufacturing [3222] ,11,1,3,0,2,2,1,2,0
+Printing and related support activities [3231] ,37,16,15,3,3,0,0,0,0
+Petroleum and coal product manufacturing [3241] ,8,3,1,0,3,0,0,1,0
+Basic chemical manufacturing [3251] ,4,1,2,1,0,0,0,0,0
+"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing [3252] ",0,0,0,0,0,0,0,0,0
+"Pesticide, fertilizer and other agricultural chemical manufacturing [3253] ",10,0,2,7,1,0,0,0,0
+Pharmaceutical and medicine manufacturing [3254] ,1,1,0,0,0,0,0,0,0
+"Paint, coating and adhesive manufacturing [3255] ",1,1,0,0,0,0,0,0,0
+"Soap, cleaning compound and toilet preparation manufacturing [3256] ",2,0,0,1,1,0,0,0,0
+Other chemical product manufacturing [3259] ,1,0,1,0,0,0,0,0,0
+Plastic product manufacturing [3261] ,33,5,5,6,6,7,3,1,0
+Rubber product manufacturing [3262] ,5,1,0,4,0,0,0,0,0
+Clay product and refractory manufacturing [3271] ,3,2,1,0,0,0,0,0,0
+Glass and glass product manufacturing [3272] ,5,1,3,0,1,0,0,0,0
+Cement and concrete product manufacturing [3273] ,39,13,15,4,5,2,0,0,0
+Lime and gypsum product manufacturing [3274] ,3,0,0,0,1,2,0,0,0
+Other non-metallic mineral product manufacturing [3279] ,6,1,0,1,3,1,0,0,0
+Iron and steel mills and ferro-alloy manufacturing [3311] ,2,0,0,1,1,0,0,0,0
+Steel product manufacturing from purchased steel [3312] ,0,0,0,0,0,0,0,0,0
+Alumina and aluminum production and processing [3313] ,0,0,0,0,0,0,0,0,0
+Non-ferrous metal (except aluminum) production and processing [3314] ,1,0,0,0,0,0,0,1,0
+Foundries [3315] ,0,0,0,0,0,0,0,0,0
+Forging and stamping [3321] ,1,1,0,0,0,0,0,0,0
+Cutlery and hand tool manufacturing [3322] ,1,1,0,0,0,0,0,0,0
+Architectural and structural metals manufacturing [3323] ,29,9,0,7,3,7,1,1,1
+"Boiler, tank and shipping container manufacturing [3324] ",5,1,0,0,3,1,0,0,0
+Hardware manufacturing [3325] ,0,0,0,0,0,0,0,0,0
+Spring and wire product manufacturing [3326] ,3,0,1,2,0,0,0,0,0
+"Machine shops, turned product, and screw, nut and bolt manufacturing [3327] ",36,18,8,5,5,0,0,0,0
+"Coating, engraving, cold and heat treating and allied activities [3328] ",3,1,2,0,0,0,0,0,0
+Other fabricated metal product manufacturing [3329] ,15,7,3,3,1,1,0,0,0
+"Agricultural, construction and mining machinery manufacturing [3331] ",6,3,0,2,0,0,1,0,0
+Industrial machinery manufacturing [3332] ,6,2,1,2,1,0,0,0,0
+Commercial and service industry machinery manufacturing [3333] ,2,0,0,0,2,0,0,0,0
+"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing [3334] ",9,1,1,2,2,1,2,0,0
+Metalworking machinery manufacturing [3335] ,3,1,2,0,0,0,0,0,0
+"Engine, turbine and power transmission equipment manufacturing [3336] ",1,0,1,0,0,0,0,0,0
+Other general-purpose machinery manufacturing [3339] ,7,3,0,1,3,0,0,0,0
+Computer and peripheral equipment manufacturing [3341] ,0,0,0,0,0,0,0,0,0
+Communications equipment manufacturing [3342] ,3,2,0,1,0,0,0,0,0
+Audio and video equipment manufacturing [3343] ,0,0,0,0,0,0,0,0,0
+Semiconductor and other electronic component manufacturing [3344] ,2,0,1,0,0,0,1,0,0
+"Navigational, measuring, medical and control instruments manufacturing [3345] ",10,2,4,0,2,2,0,0,0
+Manufacturing and reproducing magnetic and optical media [3346] ,1,0,0,0,1,0,0,0,0
+Electric lighting equipment manufacturing [3351] ,0,0,0,0,0,0,0,0,0
+Household appliance manufacturing [3352] ,0,0,0,0,0,0,0,0,0
+Electrical equipment manufacturing [3353] ,3,1,1,0,1,0,0,0,0
+Other electrical equipment and component manufacturing [3359] ,1,0,1,0,0,0,0,0,0
+Motor vehicle manufacturing [3361] ,1,0,1,0,0,0,0,0,0
+Motor vehicle body and trailer manufacturing [3362] ,10,6,1,0,1,1,1,0,0
+Motor vehicle parts manufacturing [3363] ,7,5,0,0,2,0,0,0,0
+Aerospace product and parts manufacturing [3364] ,4,1,1,1,0,1,0,0,0
+Railroad rolling stock manufacturing [3365] ,0,0,0,0,0,0,0,0,0
+Ship and boat building [3366] ,3,2,0,1,0,0,0,0,0
+Other transportation equipment manufacturing [3369] ,1,0,0,0,0,1,0,0,0
+Household and institutional furniture and kitchen cabinet manufacturing [3371] ,55,26,7,13,6,2,1,0,0
+Office furniture (including fixtures) manufacturing [3372] ,4,2,1,1,0,0,0,0,0
+Other furniture-related product manufacturing [3379] ,2,0,0,1,1,0,0,0,0
+Medical equipment and supplies manufacturing [3391] ,22,13,5,3,1,0,0,0,0
+Other miscellaneous manufacturing [3399] ,67,31,15,7,7,5,0,2,0
+Farm product merchant wholesalers [4111] ,7,3,0,2,1,1,0,0,0
+Petroleum and petroleum products merchant wholesalers [4121] ,30,2,7,3,17,1,0,0,0
+Food merchant wholesalers [4131] ,164,66,30,26,25,11,4,2,0
+Beverage merchant wholesalers [4132] ,19,7,3,4,2,2,1,0,0
+Cigarette and tobacco product merchant wholesalers [4133] ,2,0,0,2,0,0,0,0,0
+"Textile, clothing and footwear merchant wholesalers [4141] ",11,7,4,0,0,0,0,0,0
+Home entertainment equipment and household appliance merchant wholesalers [4142] ,0,0,0,0,0,0,0,0,0
+Home furnishings merchant wholesalers [4143] ,11,6,1,2,2,0,0,0,0
+Personal goods merchant wholesalers [4144] ,7,5,1,1,0,0,0,0,0
+"Pharmaceuticals, toiletries, cosmetics and sundries merchant wholesalers [4145] ",17,8,4,2,2,0,1,0,0
+Motor vehicle merchant wholesalers [4151] ,28,8,1,7,7,5,0,0,0
+New motor vehicle parts and accessories merchant wholesalers [4152] ,79,16,28,26,6,3,0,0,0
+Used motor vehicle parts and accessories merchant wholesalers [4153] ,7,2,2,2,1,0,0,0,0
+"Electrical, plumbing, heating and air-conditioning equipment and supplies merchant wholesalers [4161] ",75,22,20,26,7,0,0,0,0
+Metal service centres [4162] ,21,7,9,3,2,0,0,0,0
+"Lumber, millwork, hardware and other building supplies merchant wholesalers [4163] ",116,53,38,20,3,2,0,0,0
+"Farm, lawn and garden machinery and equipment merchant wholesalers [4171] ",35,9,11,11,3,0,1,0,0
+"Construction, forestry, mining, and industrial machinery, equipment and supplies merchant wholesalers [4172] ",140,58,30,30,21,1,0,0,0
+Computer and communications equipment and supplies merchant wholesalers [4173] ,28,13,9,4,2,0,0,0,0
+"Other machinery, equipment and supplies merchant wholesalers [4179] ",89,41,24,13,11,0,0,0,0
+Recyclable material merchant wholesalers [4181] ,48,26,6,11,2,2,1,0,0
+"Paper, paper product and disposable plastic product merchant wholesalers [4182] ",12,4,1,5,0,2,0,0,0
+Agricultural supplies merchant wholesalers [4183] ,7,4,2,0,1,0,0,0,0
+Chemical (except agricultural) and allied product merchant wholesalers [4184] ,28,15,5,4,4,0,0,0,0
+Other miscellaneous merchant wholesalers [4189] ,42,25,8,8,1,0,0,0,0
+"Business-to-business electronic markets, and agents and brokers [4191] ",103,73,10,10,6,3,1,0,0
+Automobile dealers [4411] ,193,62,18,27,65,17,4,0,0
+Other motor vehicle dealers [4412] ,78,30,18,17,13,0,0,0,0
+"Automotive parts, accessories and tire stores [4413] ",154,49,41,59,5,0,0,0,0
+Furniture stores [4421] ,64,23,17,12,10,2,0,0,0
+Home furnishings stores [4422] ,81,34,27,12,7,1,0,0,0
+Electronics and appliance stores [4431] ,160,72,66,11,8,3,0,0,0
+Building material and supplies dealers [4441] ,198,61,44,34,48,4,6,1,0
+Lawn and garden equipment and supplies stores [4442] ,46,25,11,6,4,0,0,0,0
+Grocery stores [4451] ,346,106,88,51,45,24,28,4,0
+Specialty food stores [4452] ,146,54,50,30,7,5,0,0,0
+"Beer, wine and liquor stores [4453] ",51,6,19,20,6,0,0,0,0
+Health and personal care stores [4461] ,304,85,89,58,56,16,0,0,0
+Gasoline stations [4471] ,377,90,141,125,20,1,0,0,0
+Clothing stores [4481] ,337,113,142,61,13,8,0,0,0
+Shoe stores [4482] ,46,18,19,9,0,0,0,0,0
+"Jewellery, luggage and leather goods stores [4483] ",77,30,41,4,2,0,0,0,0
+"Sporting goods, hobby and musical instrument stores [4511] ",114,48,33,16,14,1,2,0,0
+Book stores and news dealers [4513] ,21,7,10,1,3,0,0,0,0
+Department stores [4521] ,16,0,0,0,0,1,5,7,3
+Other general merchandise stores [4529] ,183,30,48,70,23,8,1,3,0
+Florists [4531] ,45,36,6,3,0,0,0,0,0
+"Office supplies, stationery and gift stores [4532] ",71,33,17,8,13,0,0,0,0
+Used merchandise stores [4533] ,43,13,13,14,0,3,0,0,0
+Other miscellaneous store retailers [4539] ,153,98,34,18,3,0,0,0,0
+Electronic shopping and mail-order houses [4541] ,21,11,6,4,0,0,0,0,0
+Vending machine operators [4542] ,24,17,4,1,2,0,0,0,0
+Direct selling establishments [4543] ,81,43,24,9,4,0,1,0,0
+Scheduled air transportation [4811] ,4,3,0,0,0,0,0,1,0
+Non-scheduled air transportation [4812] ,8,6,0,2,0,0,0,0,0
+Rail transportation [4821] ,10,4,2,0,1,2,0,0,1
+"Deep sea, coastal and Great Lakes water transportation [4831] ",11,3,1,1,1,2,1,1,1
+Inland water transportation [4832] ,0,0,0,0,0,0,0,0,0
+General freight trucking [4841] ,538,391,63,42,17,22,2,1,0
+Specialized freight trucking [4842] ,413,287,62,35,22,3,2,2,0
+Urban transit systems [4851] ,4,0,0,1,2,0,0,1,0
+Interurban and rural bus transportation [4852] ,1,0,0,0,0,1,0,0,0
+Taxi and limousine service [4853] ,20,7,7,5,1,0,0,0,0
+School and employee bus transportation [4854] ,3,1,0,1,1,0,0,0,0
+Charter bus industry [4855] ,6,0,2,2,1,1,0,0,0
+Other transit and ground passenger transportation [4859] ,5,4,0,0,1,0,0,0,0
+Pipeline transportation of crude oil [4861] ,2,2,0,0,0,0,0,0,0
+Pipeline transportation of natural gas [4862] ,3,1,0,1,0,0,0,0,1
+Other pipeline transportation [4869] ,1,1,0,0,0,0,0,0,0
+"Scenic and sightseeing transportation, land [4871] ",1,1,0,0,0,0,0,0,0
+"Scenic and sightseeing transportation, water [4872] ",12,7,4,1,0,0,0,0,0
+"Scenic and sightseeing transportation, other [4879] ",0,0,0,0,0,0,0,0,0
+Support activities for air transportation [4881] ,20,5,6,0,7,2,0,0,0
+Support activities for rail transportation [4882] ,2,1,0,0,0,1,0,0,0
+Support activities for water transportation [4883] ,48,31,6,2,6,1,1,1,0
+Support activities for road transportation [4884] ,72,31,12,8,4,16,1,0,0
+Freight transportation arrangement [4885] ,50,29,9,6,6,0,0,0,0
+Other support activities for transportation [4889] ,11,6,1,1,2,0,0,1,0
+Postal service [4911] ,9,3,1,1,1,0,2,0,1
+Couriers [4921] ,83,42,14,9,10,3,2,3,0
+Local messengers and local delivery [4922] ,21,15,5,1,0,0,0,0,0
+Warehousing and storage [4931] ,51,19,11,7,8,2,4,0,0
+"Newspaper, periodical, book and directory publishers [5111] ",58,19,4,5,27,2,0,1,0
+Software publishers [5112] ,19,10,3,3,1,0,0,1,1
+Motion picture and video industries [5121] ,43,22,8,6,0,7,0,0,0
+Sound recording industries [5122] ,2,1,0,1,0,0,0,0,0
+Radio and television broadcasting [5151] ,51,11,22,11,4,1,0,2,0
+Pay and specialty television [5152] ,1,0,1,0,0,0,0,0,0
+Wired telecommunications carriers [5171] ,33,2,10,9,4,3,3,1,1
+Wireless telecommunications carriers (except satellite) [5172] ,3,1,0,1,0,0,1,0,0
+Satellite telecommunications [5174] ,0,0,0,0,0,0,0,0,0
+Other telecommunications [5179] ,8,3,3,0,0,1,1,0,0
+"Data processing, hosting, and related services [5182] ",21,11,2,2,3,0,0,3,0
+Other information services [5191] ,46,25,16,2,2,0,0,1,0
+Monetary authorities - central bank [5211] ,0,0,0,0,0,0,0,0,0
+Depository credit intermediation [5221] ,211,4,55,95,50,3,4,0,0
+Non-depository credit intermediation [5222] ,47,26,17,2,2,0,0,0,0
+Activities related to credit intermediation [5223] ,43,31,6,4,0,2,0,0,0
+Securities and commodity contracts intermediation and brokerage [5231] ,28,9,5,14,0,0,0,0,0
+Securities and commodity exchanges [5232] ,2,2,0,0,0,0,0,0,0
+Other financial investment activities [5239] ,169,133,18,9,5,1,2,0,1
+Insurance carriers [5241] ,48,16,9,6,5,7,1,3,1
+"Agencies, brokerages and other insurance related activities [5242] ",257,138,77,23,18,1,0,0,0
+Pension funds [5261] ,2,0,0,0,0,0,1,0,1
+Other funds and financial vehicles [5269] ,11,7,1,2,1,0,0,0,0
+Lessors of real estate [5311] ,469,340,71,32,17,5,3,1,0
+Offices of real estate agents and brokers [5312] ,122,101,17,4,0,0,0,0,0
+Activities related to real estate [5313] ,89,63,12,6,6,1,1,0,0
+Automotive equipment rental and leasing [5321] ,49,22,7,16,4,0,0,0,0
+Consumer goods rental [5322] ,31,20,7,2,2,0,0,0,0
+General rental centres [5323] ,8,2,5,1,0,0,0,0,0
+Commercial and industrial machinery and equipment rental and leasing [5324] ,47,18,22,6,1,0,0,0,0
+Lessors of non-financial intangible assets (except copyrighted works) [5331] ,7,3,1,1,2,0,0,0,0
+Legal services [5411] ,352,298,29,16,4,4,1,0,0
+"Accounting, tax preparation, bookkeeping and payroll services [5412] ",301,215,47,27,6,4,1,0,1
+"Architectural, engineering and related services [5413] ",351,227,48,42,25,4,3,2,0
+Specialized design services [5414] ,48,37,8,2,1,0,0,0,0
+Computer systems design and related services [5415] ,205,114,41,24,16,8,1,1,0
+"Management, scientific and technical consulting services [5416] ",241,202,17,14,5,3,0,0,0
+Scientific research and development services [5417] ,39,23,6,3,7,0,0,0,0
+"Advertising, public relations, and related services [5418] ",50,37,6,4,3,0,0,0,0
+"Other professional, scientific and technical services [5419] ",218,154,25,30,4,5,0,0,0
+Management of companies and enterprises [5511] ,194,103,23,18,25,10,4,9,2
+Office administrative services [5611] ,78,43,12,12,3,5,3,0,0
+Facilities support services [5612] ,5,3,1,0,1,0,0,0,0
+Employment services [5613] ,40,13,2,1,10,4,7,1,2
+Business support services [5614] ,77,32,8,12,8,5,3,1,8
+Travel arrangement and reservation services [5615] ,56,42,9,4,1,0,0,0,0
+Investigation and security services [5616] ,67,34,12,8,3,4,3,2,1
+Services to buildings and dwellings [5617] ,402,210,93,50,35,6,6,2,0
+Other support services [5619] ,81,38,17,11,10,2,3,0,0
+Waste collection [5621] ,40,22,11,3,4,0,0,0,0
+Waste treatment and disposal [5622] ,19,6,0,5,7,1,0,0,0
+Remediation and other waste management services [5629] ,40,20,8,7,3,2,0,0,0
+Elementary and secondary schools [6111] ,10,2,2,1,3,0,1,0,1
+Community colleges and C.E.G.E.P.s [6112] ,22,2,2,5,5,7,0,0,1
+Universities [6113] ,15,2,1,0,4,3,1,1,3
+Business schools and computer and management training [6114] ,26,19,5,1,0,0,0,1,0
+Technical and trade schools [6115] ,22,7,4,3,5,1,1,1,0
+Other schools and instruction [6116] ,128,59,32,22,7,6,1,1,0
+Educational support services [6117] ,11,5,3,0,2,1,0,0,0
+Offices of physicians [6211] ,1051,921,106,20,2,2,0,0,0
+Offices of dentists [6212] ,226,71,87,60,8,0,0,0,0
+Offices of other health practitioners [6213] ,346,248,67,23,7,1,0,0,0
+Out-patient care centres [6214] ,107,53,25,16,11,2,0,0,0
+Medical and diagnostic laboratories [6215] ,18,11,6,1,0,0,0,0,0
+Home health care services [6216] ,62,15,7,9,20,6,3,1,1
+Other ambulatory health care services [6219] ,11,3,2,3,0,0,2,0,1
+General medical and surgical hospitals [6221] ,34,6,0,0,3,6,7,4,8
+Psychiatric and substance abuse hospitals [6222] ,8,0,1,1,4,0,1,1,0
+Specialty (except psychiatric and substance abuse) hospitals [6223] ,3,0,0,0,0,3,0,0,0
+Nursing care facilities [6231] ,134,20,21,25,23,20,20,5,0
+"Residential developmental handicap, mental health and substance abuse facilities [6232] ",113,29,42,34,6,1,1,0,0
+Community care facilities for the elderly [6233] ,134,23,30,38,22,17,4,0,0
+Other residential care facilities [6239] ,93,23,26,35,8,1,0,0,0
+Individual and family services [6241] ,185,71,38,22,33,11,7,3,0
+"Community food and housing, and emergency and other relief services [6242] ",44,14,23,4,3,0,0,0,0
+Vocational rehabilitation services [6243] ,44,13,9,13,3,5,1,0,0
+Child day-care services [6244] ,251,78,70,72,29,1,1,0,0
+Performing arts companies [7111] ,18,8,3,4,3,0,0,0,0
+Spectator sports [7112] ,13,6,1,2,4,0,0,0,0
+"Promoters (presenters) of performing arts, sports and similar events [7113] ",43,27,11,1,3,0,1,0,0
+"Agents and managers for artists, athletes, entertainers and other public figures [7114] ",1,0,0,1,0,0,0,0,0
+"Independent artists, writers and performers [7115] ",14,10,2,0,0,1,0,1,0
+Heritage institutions [7121] ,69,33,20,4,8,2,2,0,0
+Amusement parks and arcades [7131] ,4,1,1,0,1,0,1,0,0
+Gambling industries [7132] ,28,12,5,5,3,1,1,1,0
+Other amusement and recreation industries [7139] ,235,107,58,41,22,5,1,1,0
+Traveller accommodation [7211] ,216,75,32,47,41,10,8,3,0
+Recreational vehicle (RV) parks and recreational camps [7212] ,115,57,26,22,10,0,0,0,0
+Rooming and boarding houses [7213] ,9,7,1,0,0,1,0,0,0
+Special food services [7223] ,195,138,36,15,4,1,0,1,0
+Drinking places (alcoholic beverages) [7224] ,116,39,50,18,8,1,0,0,0
+Full-service restaurants and limited-service eating places [7225] ,1126,202,257,301,292,64,8,2,0
+Automotive repair and maintenance [8111] ,588,432,110,34,11,0,1,0,0
+Electronic and precision equipment repair and maintenance [8112] ,27,19,0,6,1,0,1,0,0
+Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance [8113] ,155,86,35,18,13,2,1,0,0
+Personal and household goods repair and maintenance [8114] ,86,68,10,3,4,1,0,0,0
+Personal care services [8121] ,240,134,74,19,11,2,0,0,0
+Funeral services [8122] ,84,43,27,12,2,0,0,0,0
+Dry cleaning and laundry services [8123] ,21,10,4,3,3,1,0,0,0
+Other personal services [8129] ,57,45,8,3,0,1,0,0,0
+Religious organizations [8131] ,529,417,69,26,7,6,3,1,0
+Grant-making and giving services [8132] ,77,48,13,13,3,0,0,0,0
+Social advocacy organizations [8133] ,74,40,19,8,6,1,0,0,0
+Civic and social organizations [8134] ,257,141,66,28,15,5,1,1,0
+"Business, professional, labour and other membership organizations [8139] ",240,155,47,26,10,2,0,0,0
+Private households [8141] ,40,31,8,0,1,0,0,0,0
+Defence services [9111] ,2,0,0,1,0,0,0,0,1
+Federal protective services [9112] ,5,2,0,0,1,0,0,0,2
+"Federal labour, employment and immigration services [9113] ",4,1,0,0,2,0,0,0,1
+Foreign affairs and international assistance [9114] ,1,1,0,0,0,0,0,0,0
+Other federal government public administration [9119] ,28,6,5,2,3,3,2,5,2
+Provincial protective services [9121] ,23,4,4,1,7,4,0,3,0
+Provincial labour and employment services [9122] ,2,0,0,0,1,0,1,0,0
+Other provincial and territorial public administration [9129] ,106,15,14,26,24,14,6,4,3
+Municipal protective services [9131] ,9,3,0,1,3,0,0,2,0
+"Other local, municipal and regional public administration [9139] ",135,20,26,31,29,13,10,4,2
+Aboriginal public administration [9141] ,18,0,0,2,5,1,6,4,0
+International and other extra-territorial public administration [9191] ,1,0,1,0,0,0,0,0,0
+Soybean farming [111110] ,3,3,0,0,0,0,0,0,0
+Oilseed (except soybean) farming [111120] ,0,0,0,0,0,0,0,0,0
+Dry pea and bean farming [111130] ,0,0,0,0,0,0,0,0,0
+Wheat farming [111140] ,0,0,0,0,0,0,0,0,0
+Corn farming [111150] ,1,1,0,0,0,0,0,0,0
+Rice farming [111160] ,0,0,0,0,0,0,0,0,0
+Other grain farming [111190] ,13,11,1,1,0,0,0,0,0
+Potato farming [111211] ,126,31,52,33,10,0,0,0,0
+Other vegetable (except potato) and melon farming [111219] ,19,8,1,6,4,0,0,0,0
+Orange groves [111310] ,0,0,0,0,0,0,0,0,0
+Citrus (except orange) groves [111320] ,0,0,0,0,0,0,0,0,0
+Non-citrus fruit and tree nut farming [111330] ,85,46,25,8,6,0,0,0,0
+Mushroom production [111411] ,1,0,0,0,1,0,0,0,0
+Other food crops grown under cover [111419] ,4,1,3,0,0,0,0,0,0
+Nursery and tree production [111421] ,26,18,1,3,1,2,1,0,0
+Floriculture production [111422] ,18,8,3,5,1,0,1,0,0
+Tobacco farming [111910] ,0,0,0,0,0,0,0,0,0
+Cotton farming [111920] ,0,0,0,0,0,0,0,0,0
+Sugar cane farming [111930] ,0,0,0,0,0,0,0,0,0
+Hay farming [111940] ,15,11,2,2,0,0,0,0,0
+Fruit and vegetable combination farming [111993] ,21,19,1,1,0,0,0,0,0
+Maple syrup and products production [111994] ,51,23,20,8,0,0,0,0,0
+All other miscellaneous crop farming [111999] ,29,17,4,6,2,0,0,0,0
+"Beef cattle ranching and farming, including feedlots [112110] ",19,16,1,1,1,0,0,0,0
+Dairy cattle and milk production [112120] ,132,94,30,8,0,0,0,0,0
+Hog and pig farming [112210] ,12,5,3,4,0,0,0,0,0
+Chicken egg production [112310] ,11,3,5,3,0,0,0,0,0
+Broiler and other meat-type chicken production [112320] ,14,6,7,0,1,0,0,0,0
+Turkey production [112330] ,1,1,0,0,0,0,0,0,0
+Poultry hatcheries [112340] ,0,0,0,0,0,0,0,0,0
+Combination poultry and egg production [112391] ,0,0,0,0,0,0,0,0,0
+All other poultry production [112399] ,1,1,0,0,0,0,0,0,0
+Sheep farming [112410] ,3,3,0,0,0,0,0,0,0
+Goat farming [112420] ,0,0,0,0,0,0,0,0,0
+Aquaculture [112510] ,40,23,7,6,1,0,2,1,0
+Apiculture [112910] ,7,4,3,0,0,0,0,0,0
+Horse and other equine production [112920] ,9,7,2,0,0,0,0,0,0
+Fur-bearing animal and rabbit production [112930] ,7,2,3,2,0,0,0,0,0
+Animal combination farming [112991] ,13,11,1,1,0,0,0,0,0
+All other miscellaneous animal production [112999] ,5,5,0,0,0,0,0,0,0
+Timber tract operations [113110] ,22,17,3,2,0,0,0,0,0
+Forest nurseries and gathering of forest products [113210] ,5,1,2,2,0,0,0,0,0
+Logging (except contract) [113311] ,150,99,36,10,3,1,0,1,0
+Contract logging [113312] ,220,137,54,18,9,2,0,0,0
+Salt water fishing [114113] ,1140,993,125,14,8,0,0,0,0
+Freshwater fishing [114114] ,55,51,4,0,0,0,0,0,0
+Hunting and trapping [114210] ,2,2,0,0,0,0,0,0,0
+Support activities for crop production [115110] ,17,9,5,2,1,0,0,0,0
+Support activities for animal production [115210] ,16,10,4,1,1,0,0,0,0
+Support activities for forestry [115310] ,82,36,18,12,9,5,2,0,0
+Conventional oil and gas extraction [211113] ,2,1,0,1,0,0,0,0,0
+Non-conventional oil extraction [211114] ,1,0,1,0,0,0,0,0,0
+Bituminous coal mining [212114] ,0,0,0,0,0,0,0,0,0
+Subbituminous coal mining [212115] ,0,0,0,0,0,0,0,0,0
+Lignite coal mining [212116] ,0,0,0,0,0,0,0,0,0
+Iron ore mining [212210] ,0,0,0,0,0,0,0,0,0
+Gold and silver ore mining [212220] ,0,0,0,0,0,0,0,0,0
+Lead-zinc ore mining [212231] ,0,0,0,0,0,0,0,0,0
+Nickel-copper ore mining [212232] ,0,0,0,0,0,0,0,0,0
+Copper-zinc ore mining [212233] ,0,0,0,0,0,0,0,0,0
+Uranium ore mining [212291] ,0,0,0,0,0,0,0,0,0
+All other metal ore mining [212299] ,0,0,0,0,0,0,0,0,0
+Granite mining and quarrying [212314] ,4,0,1,0,3,0,0,0,0
+Limestone mining and quarrying [212315] ,4,0,2,0,2,0,0,0,0
+Marble mining and quarrying [212316] ,0,0,0,0,0,0,0,0,0
+Sandstone mining and quarrying [212317] ,0,0,0,0,0,0,0,0,0
+Sand and gravel mining and quarrying [212323] ,12,3,2,1,5,1,0,0,0
+"Shale, clay and refractory mineral mining and quarrying [212326] ",0,0,0,0,0,0,0,0,0
+Diamond mining [212392] ,0,0,0,0,0,0,0,0,0
+Salt mining [212393] ,0,0,0,0,0,0,0,0,0
+Asbestos mining [212394] ,0,0,0,0,0,0,0,0,0
+Gypsum mining [212395] ,1,1,0,0,0,0,0,0,0
+Potash mining [212396] ,3,1,1,0,0,0,0,1,0
+Peat extraction [212397] ,26,3,7,4,3,9,0,0,0
+All other non-metallic mineral mining and quarrying [212398] ,0,0,0,0,0,0,0,0,0
+Oil and gas contract drilling [213111] ,2,2,0,0,0,0,0,0,0
+Contract drilling (except oil and gas) [213117] ,5,1,0,1,2,1,0,0,0
+Services to oil and gas extraction [213118] ,17,11,0,4,1,0,0,0,1
+Other support activities for mining [213119] ,18,15,3,0,0,0,0,0,0
+Hydro-electric power generation [221111] ,8,2,4,1,0,1,0,0,0
+Fossil-fuel electric power generation [221112] ,4,0,0,0,2,0,2,0,0
+Nuclear electric power generation [221113] ,1,0,0,0,0,0,0,0,1
+Other electric power generation [221119] ,1,1,0,0,0,0,0,0,0
+Electric bulk power transmission and control [221121] ,3,0,0,0,2,0,0,1,0
+Electric power distribution [221122] ,14,0,0,2,8,2,2,0,0
+Natural gas distribution [221210] ,1,0,0,0,0,1,0,0,0
+Water supply and irrigation systems [221310] ,7,1,2,0,2,2,0,0,0
+Sewage treatment facilities [221320] ,2,1,0,1,0,0,0,0,0
+Steam and air-conditioning supply [221330] ,0,0,0,0,0,0,0,0,0
+Residential building construction [236110] ,739,474,165,70,24,4,1,1,0
+Industrial building and structure construction [236210] ,45,22,12,2,5,2,1,1,0
+Commercial and institutional building construction [236220] ,134,47,33,25,26,1,2,0,0
+Water and sewer line and related structures construction [237110] ,39,22,10,4,3,0,0,0,0
+Oil and gas pipeline and related structures construction [237120] ,10,6,0,2,1,1,0,0,0
+Power and communication line and related structures construction [237130] ,18,5,2,3,6,2,0,0,0
+Land subdivision [237210] ,52,44,5,2,1,0,0,0,0
+"Highway, street and bridge construction [237310] ",76,22,14,11,9,14,6,0,0
+Other heavy and civil engineering construction [237990] ,26,13,2,6,2,1,2,0,0
+Poured concrete foundation and structure contractors [238110] ,71,30,20,11,6,4,0,0,0
+Structural steel and precast concrete contractors [238120] ,16,4,8,2,1,1,0,0,0
+Framing contractors [238130] ,25,10,11,4,0,0,0,0,0
+Masonry contractors [238140] ,60,32,18,5,4,1,0,0,0
+Glass and glazing contractors [238150] ,14,4,3,3,4,0,0,0,0
+Roofing contractors [238160] ,71,29,17,14,6,4,1,0,0
+Siding contractors [238170] ,41,25,7,2,6,1,0,0,0
+"Other foundation, structure and building exterior contractors [238190] ",40,23,10,5,2,0,0,0,0
+Electrical contractors and other wiring installation contractors [238210] ,289,169,55,41,18,3,3,0,0
+"Plumbing, heating and air-conditioning contractors [238220] ",293,169,43,40,31,7,2,0,1
+Elevator and escalator installation contractors [238291] ,6,1,1,0,3,1,0,0,0
+All other building equipment contractors [238299] ,31,22,3,0,5,1,0,0,0
+Drywall and insulation contractors [238310] ,94,49,24,11,9,0,1,0,0
+Painting and wall covering contractors [238320] ,81,46,15,10,6,4,0,0,0
+Flooring contractors [238330] ,49,38,7,4,0,0,0,0,0
+Tile and terrazzo contractors [238340] ,11,6,4,1,0,0,0,0,0
+Finish carpentry contractors [238350] ,133,99,27,7,0,0,0,0,0
+"Fibre, yarn and thread mills [313110] ",2,0,1,0,1,0,0,0,0
+Other building finishing contractors [238390] ,45,27,13,3,2,0,0,0,0
+Site preparation contractors [238910] ,251,133,49,44,20,4,1,0,0
+All other specialty trade contractors [238990] ,152,82,34,25,10,1,0,0,0
+Dog and cat food manufacturing [311111] ,0,0,0,0,0,0,0,0,0
+Other animal food manufacturing [311119] ,10,2,2,0,5,0,0,0,1
+Flour milling [311211] ,1,0,0,1,0,0,0,0,0
+Rice milling and malt manufacturing [311214] ,0,0,0,0,0,0,0,0,0
+Wet corn milling [311221] ,0,0,0,0,0,0,0,0,0
+Oilseed processing [311224] ,0,0,0,0,0,0,0,0,0
+Fat and oil refining and blending [311225] ,0,0,0,0,0,0,0,0,0
+Breakfast cereal manufacturing [311230] ,0,0,0,0,0,0,0,0,0
+Sugar manufacturing [311310] ,2,1,0,0,0,1,0,0,0
+Non-chocolate confectionery manufacturing [311340] ,0,0,0,0,0,0,0,0,0
+Chocolate and chocolate  confectionery manufacturing from cacao beans [311351] ,0,0,0,0,0,0,0,0,0
+Confectionery manufacturing from purchased chocolate [311352] ,2,0,0,1,0,0,0,1,0
+Frozen food manufacturing [311410] ,9,1,1,2,0,1,0,3,1
+"Fruit and vegetable canning, pickling and drying [311420] ",3,2,0,0,0,1,0,0,0
+Fluid milk manufacturing [311511] ,1,0,0,0,0,1,0,0,0
+"Butter, cheese, and dry and condensed dairy product manufacturing [311515] ",2,0,1,0,0,0,1,0,0
+Ice cream and frozen dessert manufacturing [311520] ,0,0,0,0,0,0,0,0,0
+Animal (except poultry) slaughtering [311611] ,1,1,0,0,0,0,0,0,0
+Rendering and meat processing from carcasses [311614] ,4,2,1,0,0,0,1,0,0
+Poultry processing [311615] ,2,0,0,0,0,0,2,0,0
+Seafood product preparation and packaging [311710] ,56,4,6,10,10,4,10,9,3
+Retail bakeries [311811] ,24,7,9,7,1,0,0,0,0
+Commercial bakeries and frozen bakery product manufacturing [311814] ,9,0,3,0,1,3,2,0,0
+Cookie and cracker manufacturing [311821] ,0,0,0,0,0,0,0,0,0
+"Flour mixes, dough, and pasta manufacturing from purchased flour [311824] ",1,0,1,0,0,0,0,0,0
+Tortilla manufacturing [311830] ,0,0,0,0,0,0,0,0,0
+Roasted nut and peanut butter manufacturing [311911] ,1,0,0,0,0,0,0,1,0
+Other snack food manufacturing [311919] ,2,0,0,0,0,1,0,1,0
+Coffee and tea manufacturing [311920] ,1,1,0,0,0,0,0,0,0
+Flavouring syrup and concentrate manufacturing [311930] ,0,0,0,0,0,0,0,0,0
+Seasoning and dressing manufacturing [311940] ,1,0,1,0,0,0,0,0,0
+All other food manufacturing [311990] ,11,6,4,1,0,0,0,0,0
+Soft drink and ice manufacturing [312110] ,6,3,2,0,0,0,1,0,0
+Breweries [312120] ,7,2,1,1,2,0,1,0,0
+Wineries [312130] ,6,4,2,0,0,0,0,0,0
+Distilleries [312140] ,0,0,0,0,0,0,0,0,0
+Tobacco stemming and redrying [312210] ,0,0,0,0,0,0,0,0,0
+Tobacco product manufacturing [312220] ,0,0,0,0,0,0,0,0,0
+Broad-woven fabric mills [313210] ,0,0,0,0,0,0,0,0,0
+Narrow fabric mills and Schiffli machine embroidery [313220] ,0,0,0,0,0,0,0,0,0
+Nonwoven fabric mills [313230] ,0,0,0,0,0,0,0,0,0
+Knit fabric mills [313240] ,0,0,0,0,0,0,0,0,0
+Textile and fabric finishing [313310] ,7,6,0,1,0,0,0,0,0
+Fabric coating [313320] ,0,0,0,0,0,0,0,0,0
+Carpet and rug mills [314110] ,0,0,0,0,0,0,0,0,0
+Curtain and linen mills [314120] ,0,0,0,0,0,0,0,0,0
+Textile bag and canvas mills [314910] ,5,2,1,1,1,0,0,0,0
+All other textile product mills [314990] ,10,4,2,1,2,1,0,0,0
+Hosiery and sock mills [315110] ,0,0,0,0,0,0,0,0,0
+Other clothing knitting mills [315190] ,0,0,0,0,0,0,0,0,0
+Cut and sew clothing contracting [315210] ,4,2,1,0,1,0,0,0,0
+Men's and boys' cut and sew clothing manufacturing [315220] ,3,2,0,1,0,0,0,0,0
+Infants' cut and sew clothing manufacturing [315241] ,0,0,0,0,0,0,0,0,0
+Women's and girls' cut and sew clothing manufacturing [315249] ,1,1,0,0,0,0,0,0,0
+Fur and leather clothing manufacturing [315281] ,0,0,0,0,0,0,0,0,0
+All other cut and sew clothing manufacturing [315289] ,1,0,0,0,1,0,0,0,0
+Clothing accessories and other clothing manufacturing [315990] ,1,1,0,0,0,0,0,0,0
+Leather and hide tanning and finishing [316110] ,0,0,0,0,0,0,0,0,0
+Footwear manufacturing [316210] ,1,0,1,0,0,0,0,0,0
+Other leather and allied product manufacturing [316990] ,1,1,0,0,0,0,0,0,0
+Sawmills (except shingle and shake mills) [321111] ,46,14,6,7,5,8,4,2,0
+Shingle and shake mills [321112] ,2,0,0,0,1,1,0,0,0
+Wood preservation [321114] ,1,0,0,0,0,0,1,0,0
+Hardwood veneer and plywood mills [321211] ,2,1,0,0,1,0,0,0,0
+Softwood veneer and plywood mills [321212] ,0,0,0,0,0,0,0,0,0
+Structural wood product manufacturing [321215] ,13,0,4,3,4,1,1,0,0
+Particle board and fibreboard mills [321216] ,2,0,0,1,0,0,1,0,0
+Waferboard mills [321217] ,0,0,0,0,0,0,0,0,0
+Wood window and door manufacturing [321911] ,4,2,0,0,1,0,0,1,0
+Other millwork [321919] ,13,1,3,4,4,0,1,0,0
+Wood container and pallet manufacturing [321920] ,12,5,1,3,3,0,0,0,0
+Manufactured (mobile) home manufacturing [321991] ,1,0,0,0,0,0,0,1,0
+Prefabricated wood building manufacturing [321992] ,5,1,0,1,1,0,1,1,0
+All other miscellaneous wood product manufacturing [321999] ,19,10,2,3,4,0,0,0,0
+Mechanical pulp mills [322111] ,0,0,0,0,0,0,0,0,0
+Chemical pulp mills [322112] ,4,0,0,0,0,0,0,4,0
+Paper (except newsprint) mills [322121] ,1,0,0,0,0,0,1,0,0
+Newsprint mills [322122] ,1,0,0,0,0,0,0,0,1
+Paperboard mills [322130] ,2,1,0,0,0,0,1,0,0
+Corrugated and solid fibre box manufacturing [322211] ,2,0,0,0,1,0,0,1,0
+Folding paperboard box manufacturing [322212] ,0,0,0,0,0,0,0,0,0
+Other paperboard container manufacturing [322219] ,1,0,1,0,0,0,0,0,0
+Paper bag and coated and treated paper manufacturing [322220] ,2,0,1,0,0,1,0,0,0
+Stationery product manufacturing [322230] ,2,0,1,0,1,0,0,0,0
+Sanitary paper product manufacturing [322291] ,2,0,0,0,0,1,0,1,0
+All other converted paper product manufacturing [322299] ,2,1,0,0,0,0,1,0,0
+Commercial screen printing [323113] ,5,2,2,0,1,0,0,0,0
+Quick printing [323114] ,2,1,1,0,0,0,0,0,0
+Digital printing [323115] ,4,1,2,0,1,0,0,0,0
+Manifold business forms printing [323116] ,1,1,0,0,0,0,0,0,0
+Other printing [323119] ,24,10,10,3,1,0,0,0,0
+Support activities for printing [323120] ,1,1,0,0,0,0,0,0,0
+Petroleum refineries [324110] ,1,0,0,0,0,0,0,1,0
+Asphalt paving mixture and block manufacturing [324121] ,5,3,0,0,2,0,0,0,0
+Asphalt shingle and coating material manufacturing [324122] ,1,0,1,0,0,0,0,0,0
+Other petroleum and coal product manufacturing [324190] ,1,0,0,0,1,0,0,0,0
+Petrochemical manufacturing [325110] ,0,0,0,0,0,0,0,0,0
+Industrial gas manufacturing [325120] ,3,1,1,1,0,0,0,0,0
+Synthetic dye and pigment manufacturing [325130] ,0,0,0,0,0,0,0,0,0
+Alkali and chlorine manufacturing [325181] ,0,0,0,0,0,0,0,0,0
+All other basic inorganic chemical manufacturing [325189] ,1,0,1,0,0,0,0,0,0
+Other basic organic chemical manufacturing [325190] ,0,0,0,0,0,0,0,0,0
+Resin and synthetic rubber manufacturing [325210] ,0,0,0,0,0,0,0,0,0
+Artificial and synthetic fibres and filaments manufacturing [325220] ,0,0,0,0,0,0,0,0,0
+Chemical fertilizer (except potash) manufacturing [325313] ,1,0,0,1,0,0,0,0,0
+Mixed fertilizer manufacturing [325314] ,8,0,2,5,1,0,0,0,0
+Pesticide and other agricultural chemical manufacturing [325320] ,1,0,0,1,0,0,0,0,0
+Pharmaceutical and medicine manufacturing [325410] ,1,1,0,0,0,0,0,0,0
+Paint and coating manufacturing [325510] ,1,1,0,0,0,0,0,0,0
+Adhesive manufacturing [325520] ,0,0,0,0,0,0,0,0,0
+Soap and cleaning compound manufacturing [325610] ,2,0,0,1,1,0,0,0,0
+Toilet preparation manufacturing [325620] ,0,0,0,0,0,0,0,0,0
+Printing ink manufacturing [325910] ,0,0,0,0,0,0,0,0,0
+Explosives manufacturing [325920] ,1,0,1,0,0,0,0,0,0
+Custom compounding of purchased resins [325991] ,0,0,0,0,0,0,0,0,0
+All other miscellaneous chemical product manufacturing [325999] ,0,0,0,0,0,0,0,0,0
+Plastic bag and pouch manufacturing [326111] ,2,0,0,0,0,1,1,0,0
+Plastic film and sheet manufacturing [326114] ,0,0,0,0,0,0,0,0,0
+Unlaminated plastic profile shape manufacturing [326121] ,0,0,0,0,0,0,0,0,0
+Plastic pipe and pipe fitting manufacturing [326122] ,2,0,0,0,1,0,1,0,0
+"Laminated plastic plate, sheet (except packaging), and shape manufacturing [326130] ",1,1,0,0,0,0,0,0,0
+Polystyrene foam product manufacturing [326140] ,3,0,0,1,1,1,0,0,0
+Urethane and other foam product (except polystyrene) manufacturing [326150] ,1,1,0,0,0,0,0,0,0
+Plastic bottle manufacturing [326160] ,2,0,1,0,0,1,0,0,0
+Plastic plumbing fixture manufacturing [326191] ,0,0,0,0,0,0,0,0,0
+Motor vehicle plastic parts manufacturing [326193] ,1,0,1,0,0,0,0,0,0
+Plastic window and door manufacturing [326196] ,12,1,3,2,2,3,1,0,0
+All other plastic product manufacturing [326198] ,9,2,0,3,2,1,0,1,0
+Tire manufacturing [326210] ,3,0,0,3,0,0,0,0,0
+Rubber and plastic hose and belting manufacturing [326220] ,0,0,0,0,0,0,0,0,0
+Other rubber product manufacturing [326290] ,2,1,0,1,0,0,0,0,0
+"Pottery, ceramics and plumbing fixture manufacturing [327110] ",3,2,1,0,0,0,0,0,0
+Clay building material and refractory manufacturing [327120] ,0,0,0,0,0,0,0,0,0
+Glass manufacturing [327214] ,2,0,2,0,0,0,0,0,0
+Glass product manufacturing from purchased glass [327215] ,3,1,1,0,1,0,0,0,0
+Cement manufacturing [327310] ,1,1,0,0,0,0,0,0,0
+Ready-mix concrete manufacturing [327320] ,27,9,12,2,3,1,0,0,0
+"Concrete pipe, brick and block manufacturing [327330] ",5,1,3,0,1,0,0,0,0
+Other concrete product manufacturing [327390] ,6,2,0,2,1,1,0,0,0
+Lime manufacturing [327410] ,1,0,0,0,0,1,0,0,0
+Gypsum product manufacturing [327420] ,2,0,0,0,1,1,0,0,0
+Abrasive product manufacturing [327910] ,0,0,0,0,0,0,0,0,0
+All other non-metallic mineral product manufacturing [327990] ,6,1,0,1,3,1,0,0,0
+Iron and steel mills and ferro-alloy manufacturing [331110] ,2,0,0,1,1,0,0,0,0
+Iron and steel pipes and tubes manufacturing from purchased steel [331210] ,0,0,0,0,0,0,0,0,0
+Cold-rolled steel shape manufacturing [331221] ,0,0,0,0,0,0,0,0,0
+Steel wire drawing [331222] ,0,0,0,0,0,0,0,0,0
+Primary production of alumina and aluminum [331313] ,0,0,0,0,0,0,0,0,0
+"Aluminum rolling, drawing, extruding and alloying [331317] ",0,0,0,0,0,0,0,0,0
+Non-ferrous metal (except aluminum) smelting and refining [331410] ,1,0,0,0,0,0,0,1,0
+"Copper rolling, drawing, extruding and alloying [331420] ",0,0,0,0,0,0,0,0,0
+"Non-ferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying [331490] ",0,0,0,0,0,0,0,0,0
+Iron foundries [331511] ,0,0,0,0,0,0,0,0,0
+Steel foundries [331514] ,0,0,0,0,0,0,0,0,0
+Non-ferrous die-casting foundries [331523] ,0,0,0,0,0,0,0,0,0
+Non-ferrous foundries (except die-casting) [331529] ,0,0,0,0,0,0,0,0,0
+Forging [332113] ,1,1,0,0,0,0,0,0,0
+Stamping [332118] ,0,0,0,0,0,0,0,0,0
+Cutlery and hand tool manufacturing [332210] ,1,1,0,0,0,0,0,0,0
+Prefabricated metal building and component manufacturing [332311] ,1,1,0,0,0,0,0,0,0
+Concrete reinforcing bar manufacturing [332314] ,0,0,0,0,0,0,0,0,0
+Video recording merchant wholesalers [414450] ,0,0,0,0,0,0,0,0,0
+Other plate work and fabricated structural product manufacturing [332319] ,16,3,0,3,3,5,0,1,1
+Metal window and door manufacturing [332321] ,5,2,0,2,0,1,0,0,0
+Other ornamental and architectural metal product manufacturing [332329] ,7,3,0,2,0,1,1,0,0
+Power boiler and heat exchanger manufacturing [332410] ,0,0,0,0,0,0,0,0,0
+Metal tank (heavy gauge) manufacturing [332420] ,4,1,0,0,3,0,0,0,0
+Metal can manufacturing [332431] ,1,0,0,0,0,1,0,0,0
+Other metal container manufacturing [332439] ,0,0,0,0,0,0,0,0,0
+Hardware manufacturing [332510] ,0,0,0,0,0,0,0,0,0
+Spring (heavy gauge) manufacturing [332611] ,0,0,0,0,0,0,0,0,0
+Other fabricated wire product manufacturing [332619] ,3,0,1,2,0,0,0,0,0
+Machine shops [332710] ,35,17,8,5,5,0,0,0,0
+"Turned product and screw, nut and bolt manufacturing [332720] ",1,1,0,0,0,0,0,0,0
+"Coating, engraving, cold and heat treating and allied activities [332810] ",3,1,2,0,0,0,0,0,0
+Metal valve manufacturing [332910] ,1,0,0,0,0,1,0,0,0
+Ball and roller bearing manufacturing [332991] ,1,0,1,0,0,0,0,0,0
+All other miscellaneous fabricated metal product manufacturing [332999] ,13,7,2,3,1,0,0,0,0
+Agricultural implement manufacturing [333110] ,2,1,0,1,0,0,0,0,0
+Construction machinery manufacturing [333120] ,3,2,0,0,0,0,1,0,0
+Mining and oil and gas field machinery manufacturing [333130] ,1,0,0,1,0,0,0,0,0
+Sawmill and woodworking machinery manufacturing [333245] ,1,0,0,0,1,0,0,0,0
+Rubber and plastics industry machinery manufacturing [333246] ,0,0,0,0,0,0,0,0,0
+Paper industry machinery manufacturing [333247] ,0,0,0,0,0,0,0,0,0
+All other industrial machinery manufacturing [333248] ,5,2,1,2,0,0,0,0,0
+Commercial and service industry machinery manufacturing [333310] ,2,0,0,0,2,0,0,0,0
+Industrial and commercial fan and blower and air purification equipment manufacturing [333413] ,3,0,0,1,1,0,1,0,0
+Heating equipment and commercial refrigeration equipment manufacturing [333416] ,6,1,1,1,1,1,1,0,0
+Industrial mould manufacturing [333511] ,0,0,0,0,0,0,0,0,0
+Other metalworking machinery manufacturing [333519] ,3,1,2,0,0,0,0,0,0
+Turbine and turbine generator set unit manufacturing [333611] ,0,0,0,0,0,0,0,0,0
+Other engine and power transmission equipment manufacturing [333619] ,1,0,1,0,0,0,0,0,0
+Pump and compressor manufacturing [333910] ,0,0,0,0,0,0,0,0,0
+Material handling equipment manufacturing [333920] ,4,2,0,1,1,0,0,0,0
+All other general-purpose machinery manufacturing [333990] ,3,1,0,0,2,0,0,0,0
+Computer and peripheral equipment manufacturing [334110] ,0,0,0,0,0,0,0,0,0
+Telephone apparatus manufacturing [334210] ,0,0,0,0,0,0,0,0,0
+Radio and television broadcasting and wireless communications equipment manufacturing [334220] ,0,0,0,0,0,0,0,0,0
+Other communications equipment manufacturing [334290] ,3,2,0,1,0,0,0,0,0
+Audio and video equipment manufacturing [334310] ,0,0,0,0,0,0,0,0,0
+Semiconductor and other electronic component manufacturing [334410] ,2,0,1,0,0,0,1,0,0
+Navigational and guidance instruments manufacturing [334511] ,1,0,1,0,0,0,0,0,0
+"Measuring, medical and controlling devices manufacturing [334512] ",9,2,3,0,2,2,0,0,0
+Manufacturing and reproducing magnetic and optical media [334610] ,1,0,0,0,1,0,0,0,0
+Electric lamp bulb and parts manufacturing [335110] ,0,0,0,0,0,0,0,0,0
+Lighting fixture manufacturing [335120] ,0,0,0,0,0,0,0,0,0
+Small electrical appliance manufacturing [335210] ,0,0,0,0,0,0,0,0,0
+Major kitchen appliance manufacturing [335223] ,0,0,0,0,0,0,0,0,0
+Other major appliance manufacturing [335229] ,0,0,0,0,0,0,0,0,0
+"Power, distribution and specialty transformers manufacturing [335311] ",1,0,0,0,1,0,0,0,0
+Motor and generator manufacturing [335312] ,1,0,1,0,0,0,0,0,0
+"Switchgear and switchboard, and relay and industrial control apparatus manufacturing [335315] ",1,1,0,0,0,0,0,0,0
+Battery manufacturing [335910] ,0,0,0,0,0,0,0,0,0
+Communication and energy wire and cable manufacturing [335920] ,1,0,1,0,0,0,0,0,0
+Wiring device manufacturing [335930] ,0,0,0,0,0,0,0,0,0
+All other electrical equipment and component manufacturing [335990] ,0,0,0,0,0,0,0,0,0
+Automobile and light-duty motor vehicle manufacturing [336110] ,0,0,0,0,0,0,0,0,0
+Heavy-duty truck manufacturing [336120] ,1,0,1,0,0,0,0,0,0
+Motor vehicle body manufacturing [336211] ,4,2,0,0,1,1,0,0,0
+Truck trailer manufacturing [336212] ,5,3,1,0,0,0,1,0,0
+"Motor home, travel trailer and camper manufacturing [336215] ",1,1,0,0,0,0,0,0,0
+Motor vehicle gasoline engine and engine parts manufacturing [336310] ,3,3,0,0,0,0,0,0,0
+Motor vehicle electrical and electronic equipment manufacturing [336320] ,1,1,0,0,0,0,0,0,0
+Motor vehicle steering and suspension components (except spring) manufacturing [336330] ,0,0,0,0,0,0,0,0,0
+Motor vehicle brake system manufacturing [336340] ,0,0,0,0,0,0,0,0,0
+Motor vehicle transmission and power train parts manufacturing [336350] ,1,1,0,0,0,0,0,0,0
+Motor vehicle seating and interior trim manufacturing [336360] ,0,0,0,0,0,0,0,0,0
+Motor vehicle metal stamping [336370] ,0,0,0,0,0,0,0,0,0
+Other motor vehicle parts manufacturing [336390] ,2,0,0,0,2,0,0,0,0
+Aerospace product and parts manufacturing [336410] ,4,1,1,1,0,1,0,0,0
+Railroad rolling stock manufacturing [336510] ,0,0,0,0,0,0,0,0,0
+Ship building and repairing [336611] ,0,0,0,0,0,0,0,0,0
+Boat building [336612] ,3,2,0,1,0,0,0,0,0
+Other transportation equipment manufacturing [336990] ,1,0,0,0,0,1,0,0,0
+Wood kitchen cabinet and counter top manufacturing [337110] ,38,16,5,9,5,2,1,0,0
+Upholstered household furniture manufacturing [337121] ,0,0,0,0,0,0,0,0,0
+Other wood household furniture manufacturing [337123] ,13,8,1,3,1,0,0,0,0
+Household furniture (except wood and upholstered) manufacturing [337126] ,1,1,0,0,0,0,0,0,0
+Institutional furniture manufacturing [337127] ,3,1,1,1,0,0,0,0,0
+"Wood office furniture, including custom architectural woodwork, manufacturing [337213] ",3,2,1,0,0,0,0,0,0
+Office furniture (except wood) manufacturing [337214] ,0,0,0,0,0,0,0,0,0
+"Showcase, partition, shelving and locker manufacturing [337215] ",1,0,0,1,0,0,0,0,0
+Mattress manufacturing [337910] ,1,0,0,1,0,0,0,0,0
+Blind and shade manufacturing [337920] ,1,0,0,0,1,0,0,0,0
+Medical equipment and supplies manufacturing [339110] ,22,13,5,3,1,0,0,0,0
+Jewellery and silverware manufacturing [339910] ,4,3,0,1,0,0,0,0,0
+Sporting and athletic goods manufacturing [339920] ,2,0,0,2,0,0,0,0,0
+"Doll, toy and game manufacturing [339930] ",0,0,0,0,0,0,0,0,0
+Office supplies (except paper) manufacturing [339940] ,3,1,2,0,0,0,0,0,0
+Sign manufacturing [339950] ,29,16,7,1,3,1,0,1,0
+All other miscellaneous manufacturing [339990] ,29,11,6,3,4,4,0,1,0
+Live animal merchant wholesalers [411110] ,2,1,0,0,1,0,0,0,0
+Oilseed and grain merchant wholesalers [411120] ,0,0,0,0,0,0,0,0,0
+Nursery stock and plant merchant wholesalers [411130] ,4,1,0,2,0,1,0,0,0
+Other farm product merchant wholesalers [411190] ,1,1,0,0,0,0,0,0,0
+Petroleum and petroleum products merchant wholesalers [412110] ,30,2,7,3,17,1,0,0,0
+General-line food merchant wholesalers [413110] ,18,7,1,5,3,0,2,0,0
+Dairy and milk products merchant wholesalers [413120] ,17,12,0,1,2,1,0,1,0
+Poultry and egg merchant wholesalers [413130] ,1,0,0,0,1,0,0,0,0
+Fish and seafood product merchant wholesalers [413140] ,59,13,16,11,14,3,1,1,0
+Fresh fruit and vegetable merchant wholesalers [413150] ,16,9,2,1,2,2,0,0,0
+Red meat and meat product merchant wholesalers [413160] ,9,4,2,1,1,1,0,0,0
+Other specialty-line food merchant wholesalers [413190] ,44,21,9,7,2,4,1,0,0
+Non-alcoholic beverage merchant wholesalers [413210] ,14,5,2,4,1,2,0,0,0
+Alcoholic beverage merchant wholesalers [413220] ,5,2,1,0,1,0,1,0,0
+Cigarette and tobacco product merchant wholesalers [413310] ,2,0,0,2,0,0,0,0,0
+Clothing and clothing accessories merchant wholesalers [414110] ,6,4,2,0,0,0,0,0,0
+Footwear merchant wholesalers [414120] ,1,1,0,0,0,0,0,0,0
+"Piece goods, notions and other dry goods merchant wholesalers [414130] ",4,2,2,0,0,0,0,0,0
+Home entertainment equipment merchant wholesalers [414210] ,0,0,0,0,0,0,0,0,0
+Household appliance merchant wholesalers [414220] ,0,0,0,0,0,0,0,0,0
+"China, glassware, crockery and pottery merchant wholesalers [414310] ",0,0,0,0,0,0,0,0,0
+Floor covering merchant wholesalers [414320] ,5,2,0,2,1,0,0,0,0
+"Linen, drapery and other textile furnishings merchant wholesalers [414330] ",2,1,1,0,0,0,0,0,0
+Other home furnishings merchant wholesalers [414390] ,4,3,0,0,1,0,0,0,0
+Jewellery and watch merchant wholesalers [414410] ,3,3,0,0,0,0,0,0,0
+"Book, periodical and newspaper merchant wholesalers [414420] ",0,0,0,0,0,0,0,0,0
+Photographic equipment and supplies merchant wholesalers [414430] ,0,0,0,0,0,0,0,0,0
+Sound recording merchant wholesalers [414440] ,0,0,0,0,0,0,0,0,0
+Toy and hobby goods merchant wholesalers [414460] ,2,1,1,0,0,0,0,0,0
+Amusement and sporting goods merchant wholesalers [414470] ,2,1,0,1,0,0,0,0,0
+Pharmaceuticals and pharmacy supplies merchant wholesalers [414510] ,2,0,0,0,1,0,1,0,0
+"Toiletries, cosmetics and sundries merchant wholesalers [414520] ",15,8,4,2,1,0,0,0,0
+New and used automobile and light-duty truck merchant wholesalers [415110] ,3,1,0,0,1,1,0,0,0
+"Truck, truck tractor and bus merchant wholesalers [415120] ",20,4,0,6,6,4,0,0,0
+Recreational and other motor vehicles merchant wholesalers [415190] ,5,3,1,1,0,0,0,0,0
+Tire merchant wholesalers [415210] ,11,1,5,5,0,0,0,0,0
+Other new motor vehicle parts and accessories merchant wholesalers [415290] ,68,15,23,21,6,3,0,0,0
+Used motor vehicle parts and accessories merchant wholesalers [415310] ,7,2,2,2,1,0,0,0,0
+Electrical wiring and construction supplies merchant wholesalers [416110] ,26,12,4,7,3,0,0,0,0
+"Plumbing, heating and air-conditioning equipment and supplies merchant wholesalers [416120] ",49,10,16,19,4,0,0,0,0
+Metal service centres [416210] ,21,7,9,3,2,0,0,0,0
+General-line building supplies merchant wholesalers [416310] ,15,4,2,7,0,2,0,0,0
+"Lumber, plywood and millwork merchant wholesalers [416320] ",18,8,6,4,0,0,0,0,0
+Hardware merchant wholesalers [416330] ,25,10,10,4,1,0,0,0,0
+"Paint, glass and wallpaper merchant wholesalers [416340] ",7,4,3,0,0,0,0,0,0
+Other specialty-line building supplies merchant wholesalers [416390] ,51,27,17,5,2,0,0,0,0
+"Farm, lawn and garden machinery and equipment merchant wholesalers [417110] ",35,9,11,11,3,0,1,0,0
+"Construction and forestry machinery, equipment and supplies merchant wholesalers [417210] ",40,12,11,9,8,0,0,0,0
+"Mining and oil and gas well machinery, equipment and supplies merchant wholesalers [417220] ",4,3,0,1,0,0,0,0,0
+"Industrial machinery, equipment and supplies merchant wholesalers [417230] ",96,43,19,20,13,1,0,0,0
+"Computer, computer peripheral and pre-packaged software merchant wholesalers [417310] ",15,6,6,2,1,0,0,0,0
+"Electronic components, navigational and communications equipment and supplies merchant wholesalers [417320] ",13,7,3,2,1,0,0,0,0
+Office and store machinery and equipment merchant wholesalers [417910] ,23,9,7,5,2,0,0,0,0
+"Service establishment machinery, equipment and supplies merchant wholesalers [417920] ",20,8,7,4,1,0,0,0,0
+"Professional machinery, equipment and supplies merchant wholesalers [417930] ",16,7,5,0,4,0,0,0,0
+"All other machinery, equipment and supplies merchant wholesalers [417990] ",30,17,5,4,4,0,0,0,0
+Recyclable metal merchant wholesalers [418110] ,31,14,3,10,2,1,1,0,0
+Recyclable paper and paperboard merchant wholesalers [418120] ,3,2,1,0,0,0,0,0,0
+Other recyclable material merchant wholesalers [418190] ,14,10,2,1,0,1,0,0,0
+Stationery and office supplies merchant wholesalers [418210] ,6,3,1,2,0,0,0,0,0
+Other paper and disposable plastic product merchant wholesalers [418220] ,6,1,0,3,0,2,0,0,0
+Agricultural feed merchant wholesalers [418310] ,2,2,0,0,0,0,0,0,0
+Seed merchant wholesalers [418320] ,2,1,1,0,0,0,0,0,0
+Agricultural chemical and other farm supplies merchant wholesalers [418390] ,3,1,1,0,1,0,0,0,0
+Chemical (except agricultural) and allied product merchant wholesalers [418410] ,28,15,5,4,4,0,0,0,0
+Log and wood chip merchant wholesalers [418910] ,4,1,1,1,1,0,0,0,0
+"Mineral, ore and precious metal merchant wholesalers [418920] ",0,0,0,0,0,0,0,0,0
+Second-hand goods (except machinery and automotive) merchant wholesalers [418930] ,1,1,0,0,0,0,0,0,0
+All other merchant wholesalers [418990] ,37,23,7,7,0,0,0,0,0
+Business-to-business electronic markets [419110] ,0,0,0,0,0,0,0,0,0
+Wholesale trade agents and brokers [419120] ,103,73,10,10,6,3,1,0,0
+New car dealers [441110] ,115,5,5,21,63,17,4,0,0
+Used car dealers [441120] ,78,57,13,6,2,0,0,0,0
+Recreational vehicle dealers [441210] ,37,10,10,10,7,0,0,0,0
+"Motorcycle, boat and other motor vehicle dealers [441220] ",41,20,8,7,6,0,0,0,0
+Automotive parts and accessories stores [441310] ,96,36,27,31,2,0,0,0,0
+Tire dealers [441320] ,58,13,14,28,3,0,0,0,0
+Furniture stores [442110] ,64,23,17,12,10,2,0,0,0
+Floor covering stores [442210] ,23,8,6,6,2,1,0,0,0
+Window treatment stores [442291] ,5,3,1,1,0,0,0,0,0
+Print and picture frame stores [442292] ,6,4,1,1,0,0,0,0,0
+All other home furnishings stores [442298] ,47,19,19,4,5,0,0,0,0
+"Appliance, television and other electronics stores [443143] ",117,46,57,7,4,3,0,0,0
+Computer and software stores [443144] ,33,21,6,3,3,0,0,0,0
+Camera and photographic supplies stores [443145] ,2,1,0,1,0,0,0,0,0
+Audio and video recordings stores [443146] ,8,4,3,0,1,0,0,0,0
+Home centres [444110] ,80,4,13,17,35,4,6,1,0
+Paint and wallpaper stores [444120] ,20,15,3,2,0,0,0,0,0
+Hardware stores [444130] ,35,9,12,5,9,0,0,0,0
+Other building material dealers [444190] ,63,33,16,10,4,0,0,0,0
+Outdoor power equipment stores [444210] ,11,5,4,2,0,0,0,0,0
+Nursery stores and garden centres [444220] ,35,20,7,4,4,0,0,0,0
+Supermarkets and other grocery (except convenience) stores [445110] ,155,20,15,22,42,24,28,4,0
+Convenience stores [445120] ,191,86,73,29,3,0,0,0,0
+Meat markets [445210] ,34,11,15,4,1,3,0,0,0
+Fish and seafood markets [445220] ,16,7,2,5,1,1,0,0,0
+Fruit and vegetable markets [445230] ,18,5,7,3,2,1,0,0,0
+Baked goods stores [445291] ,27,14,7,6,0,0,0,0,0
+Confectionery and nut stores [445292] ,11,5,5,1,0,0,0,0,0
+All other specialty food stores [445299] ,40,12,14,11,3,0,0,0,0
+"Beer, wine and liquor stores [445310] ",51,6,19,20,6,0,0,0,0
+Pharmacies and drug stores [446110] ,159,22,24,44,55,14,0,0,0
+"Cosmetics, beauty supplies and perfume stores [446120] ",27,13,8,5,0,1,0,0,0
+Optical goods stores [446130] ,51,21,29,1,0,0,0,0,0
+Food (health) supplement stores [446191] ,26,12,12,2,0,0,0,0,0
+All other health and personal care stores [446199] ,41,17,16,6,1,1,0,0,0
+Gasoline stations with convenience stores [447110] ,292,50,115,114,13,0,0,0,0
+Other gasoline stations [447190] ,85,40,26,11,7,1,0,0,0
+Men's clothing stores [448110] ,22,7,14,1,0,0,0,0,0
+Women's clothing stores [448120] ,127,41,63,22,1,0,0,0,0
+Children's and infants' clothing stores [448130] ,19,7,5,6,1,0,0,0,0
+Family clothing stores [448140] ,103,24,37,23,11,8,0,0,0
+Clothing accessories stores [448150] ,22,12,8,2,0,0,0,0,0
+Fur stores [448191] ,2,1,1,0,0,0,0,0,0
+All other clothing stores [448199] ,42,21,14,7,0,0,0,0,0
+Shoe stores [448210] ,46,18,19,9,0,0,0,0,0
+Jewellery stores [448310] ,65,28,32,3,2,0,0,0,0
+Luggage and leather goods stores [448320] ,12,2,9,1,0,0,0,0,0
+Golf equipment and supplies  specialty stores [451111] ,4,0,1,1,2,0,0,0,0
+Ski equipment and supplies specialty stores [451112] ,2,0,2,0,0,0,0,0,0
+Cycling equipment and supplies specialty stores [451113] ,8,4,2,2,0,0,0,0,0
+All other sporting goods stores [451119] ,45,20,8,8,6,1,2,0,0
+"Hobby, toy and game stores [451120] ",22,4,12,0,6,0,0,0,0
+"Sewing, needlework and piece goods stores [451130] ",20,17,0,3,0,0,0,0,0
+Musical instrument and supplies stores [451140] ,13,3,8,2,0,0,0,0,0
+Book stores and news dealers [451310] ,21,7,10,1,3,0,0,0,0
+Department stores [452110] ,16,0,0,0,0,1,5,7,3
+Warehouse clubs [452910] ,5,1,0,0,1,0,1,2,0
+Home and auto supplies stores [452991] ,19,0,0,2,11,6,0,0,0
+All other miscellaneous general merchandise stores [452999] ,159,29,48,68,11,2,0,1,0
+Florists [453110] ,45,36,6,3,0,0,0,0,0
+Office supplies and stationery stores [453210] ,18,3,1,3,11,0,0,0,0
+"Gift, novelty and souvenir stores [453220] ",53,30,16,5,2,0,0,0,0
+Used merchandise stores [453310] ,43,13,13,14,0,3,0,0,0
+Pet and pet supplies stores [453910] ,33,18,9,3,3,0,0,0,0
+Art dealers [453920] ,7,3,4,0,0,0,0,0,0
+Mobile home dealers [453930] ,2,0,1,1,0,0,0,0,0
+Beer and wine-making supplies stores [453992] ,24,18,4,2,0,0,0,0,0
+All other miscellaneous store retailers (except beer and wine-making supplies stores) [453999] ,87,59,16,12,0,0,0,0,0
+Electronic shopping and mail-order houses [454110] ,21,11,6,4,0,0,0,0,0
+Vending machine operators [454210] ,24,17,4,1,2,0,0,0,0
+Heating oil dealers [454311] ,22,11,7,4,0,0,0,0,0
+Liquefied petroleum gas (bottled gas) dealers [454312] ,8,2,4,2,0,0,0,0,0
+Other fuel dealers [454319] ,14,5,3,2,3,0,1,0,0
+Other direct selling establishments [454390] ,37,25,10,1,1,0,0,0,0
+Scheduled air transportation [481110] ,4,3,0,0,0,0,0,1,0
+Non-scheduled chartered air transportation [481214] ,4,3,0,1,0,0,0,0,0
+Non-scheduled specialty flying services [481215] ,4,3,0,1,0,0,0,0,0
+Short-haul freight rail transportation [482112] ,3,1,0,0,0,1,0,0,1
+Mainline freight rail transportation [482113] ,2,0,1,0,0,1,0,0,0
+Passenger rail transportation [482114] ,5,3,1,0,1,0,0,0,0
+"Deep sea, coastal and Great Lakes water transportation (except by ferries) [483115] ",8,3,1,0,0,1,1,1,1
+"Deep sea, coastal and Great Lakes water transportation by ferries [483116] ",3,0,0,1,1,1,0,0,0
+Inland water transportation (except by ferries) [483213] ,0,0,0,0,0,0,0,0,0
+Inland water transportation by ferries [483214] ,0,0,0,0,0,0,0,0,0
+"General freight trucking, local [484110] ",197,148,19,14,4,12,0,0,0
+"General freight trucking, long distance, truck-load [484121] ",309,221,42,22,13,9,1,1,0
+"General freight trucking, long distance, less than truck-load [484122] ",32,22,2,6,0,1,1,0,0
+Used household and office goods moving [484210] ,19,3,8,1,6,0,1,0,0
+"Bulk liquids trucking, local [484221] ",14,11,3,0,0,0,0,0,0
+"Dry bulk materials trucking, local [484222] ",62,49,9,4,0,0,0,0,0
+"Forest products trucking, local [484223] ",139,105,21,10,3,0,0,0,0
+"Other specialized freight (except used goods) trucking, local [484229] ",34,24,8,0,1,1,0,0,0
+"Bulk liquids trucking, long distance [484231] ",13,11,0,1,0,1,0,0,0
+"Dry bulk materials trucking, long distance [484232] ",25,19,3,1,1,1,0,0,0
+"Forest products trucking, long distance [484233] ",47,33,6,5,3,0,0,0,0
+"Other specialized freight (except used goods) trucking, long distance [484239] ",60,32,4,13,8,0,1,2,0
+Urban transit systems [485110] ,4,0,0,1,2,0,0,1,0
+Interurban and rural bus transportation [485210] ,1,0,0,0,0,1,0,0,0
+Taxi service [485310] ,18,7,7,3,1,0,0,0,0
+Limousine service [485320] ,2,0,0,2,0,0,0,0,0
+School and employee bus transportation [485410] ,3,1,0,1,1,0,0,0,0
+Charter bus industry [485510] ,6,0,2,2,1,1,0,0,0
+Other transit and ground passenger transportation [485990] ,5,4,0,0,1,0,0,0,0
+Pipeline transportation of crude oil [486110] ,2,2,0,0,0,0,0,0,0
+Pipeline transportation of natural gas [486210] ,3,1,0,1,0,0,0,0,1
+Pipeline transportation of refined petroleum products [486910] ,0,0,0,0,0,0,0,0,0
+All other pipeline transportation [486990] ,1,1,0,0,0,0,0,0,0
+"Scenic and sightseeing transportation, land [487110] ",1,1,0,0,0,0,0,0,0
+"Scenic and sightseeing transportation, water [487210] ",12,7,4,1,0,0,0,0,0
+"Scenic and sightseeing transportation, other [487990] ",0,0,0,0,0,0,0,0,0
+Air traffic control [488111] ,4,0,0,0,4,0,0,0,0
+Other airport operations [488119] ,8,0,3,0,3,2,0,0,0
+Other support activities for air transportation [488190] ,8,5,3,0,0,0,0,0,0
+Support activities for rail transportation [488210] ,2,1,0,0,0,1,0,0,0
+Port and harbour operations [488310] ,30,24,4,0,2,0,0,0,0
+Marine cargo handling [488320] ,10,3,1,0,3,1,1,1,0
+Marine salvage services [488331] ,0,0,0,0,0,0,0,0,0
+Ship piloting services [488332] ,1,0,0,1,0,0,0,0,0
+Other navigational services to shipping [488339] ,1,1,0,0,0,0,0,0,0
+Other support activities for water transportation [488390] ,6,3,1,1,1,0,0,0,0
+Motor vehicle towing [488410] ,34,23,7,3,1,0,0,0,0
+Other support activities for road transportation [488490] ,38,8,5,5,3,16,1,0,0
+Marine shipping agencies [488511] ,4,3,0,1,0,0,0,0,0
+Other freight transportation arrangement [488519] ,46,26,9,5,6,0,0,0,0
+Other support activities for transportation [488990] ,11,6,1,1,2,0,0,1,0
+Postal service [491110] ,9,3,1,1,1,0,2,0,1
+Couriers [492110] ,83,42,14,9,10,3,2,3,0
+Local messengers and local delivery [492210] ,21,15,5,1,0,0,0,0,0
+General warehousing and storage [493110] ,28,12,5,4,3,1,3,0,0
+Refrigerated warehousing and storage [493120] ,11,2,4,0,4,0,1,0,0
+Farm product warehousing and storage [493130] ,1,0,0,1,0,0,0,0,0
+Other warehousing and storage [493190] ,11,5,2,2,1,1,0,0,0
+Newspaper publishers [511110] ,35,5,2,2,25,1,0,0,0
+Periodical publishers [511120] ,8,7,0,0,1,0,0,0,0
+Book publishers [511130] ,9,5,1,1,1,0,0,1,0
+Directory and mailing list publishers [511140] ,2,0,0,1,0,1,0,0,0
+Other publishers [511190] ,4,2,1,1,0,0,0,0,0
+Software publishers (except video game publishers) [511211] ,17,10,3,2,1,0,0,1,0
+Video game publishers [511212] ,2,0,0,1,0,0,0,0,1
+Motion picture and video production [512110] ,24,20,3,1,0,0,0,0,0
+Motion picture and video distribution [512120] ,2,1,1,0,0,0,0,0,0
+Motion picture and video exhibition [512130] ,16,1,3,5,0,7,0,0,0
+Post-production and other motion picture and video industries [512190] ,1,0,1,0,0,0,0,0,0
+Record production [512210] ,0,0,0,0,0,0,0,0,0
+Integrated record production/distribution [512220] ,0,0,0,0,0,0,0,0,0
+Music publishers [512230] ,1,0,0,1,0,0,0,0,0
+Sound recording studios [512240] ,1,1,0,0,0,0,0,0,0
+Other sound recording industries [512290] ,0,0,0,0,0,0,0,0,0
+Radio broadcasting [515110] ,42,10,21,10,1,0,0,0,0
+Television broadcasting [515120] ,9,1,1,1,3,1,0,2,0
+Pay and specialty television [515210] ,1,0,1,0,0,0,0,0,0
+Wired telecommunications carriers (except cable) [517111] ,26,1,10,6,2,2,3,1,1
+Cable and other program distribution [517112] ,7,1,0,3,2,1,0,0,0
+Wireless telecommunications carriers (except satellite) [517210] ,3,1,0,1,0,0,1,0,0
+Satellite telecommunications [517410] ,0,0,0,0,0,0,0,0,0
+Other telecommunications [517910] ,8,3,3,0,0,1,1,0,0
+"Data processing, hosting, and related services [518210] ",21,11,2,2,3,0,0,3,0
+News syndicates [519110] ,2,1,0,1,0,0,0,0,0
+Libraries [519121] ,20,9,10,0,0,0,0,1,0
+Archives [519122] ,3,2,0,0,1,0,0,0,0
+Internet publishing and broadcasting and web search portals [519130] ,17,11,4,1,1,0,0,0,0
+All other information services [519190] ,4,2,2,0,0,0,0,0,0
+Monetary authorities - central bank [521110] ,0,0,0,0,0,0,0,0,0
+Personal and commercial banking industry [522111] ,155,1,40,72,39,0,3,0,0
+Corporate and institutional banking industry [522112] ,0,0,0,0,0,0,0,0,0
+Local credit unions [522130] ,56,3,15,23,11,3,1,0,0
+Other depository credit intermediation [522190] ,0,0,0,0,0,0,0,0,0
+Credit card issuing [522210] ,0,0,0,0,0,0,0,0,0
+Sales financing [522220] ,6,3,2,1,0,0,0,0,0
+Consumer lending [522291] ,18,14,4,0,0,0,0,0,0
+All other non-depository credit intermediation [522299] ,23,9,11,1,2,0,0,0,0
+Mortgage and non-mortgage loan brokers [522310] ,19,14,3,2,0,0,0,0,0
+Central credit unions [522321] ,2,0,0,1,0,1,0,0,0
+Other financial transactions processing and clearing house activities [522329] ,4,1,1,1,0,1,0,0,0
+Other activities related to credit intermediation [522390] ,18,16,2,0,0,0,0,0,0
+Investment banking and securities dealing [523110] ,17,3,2,12,0,0,0,0,0
+Securities brokerage [523120] ,6,2,2,2,0,0,0,0,0
+Commodity contracts dealing [523130] ,3,3,0,0,0,0,0,0,0
+Commodity contracts brokerage [523140] ,2,1,1,0,0,0,0,0,0
+Securities and commodity exchanges [523210] ,2,2,0,0,0,0,0,0,0
+Miscellaneous intermediation [523910] ,77,56,8,6,4,1,1,0,1
+Portfolio management [523920] ,28,21,4,3,0,0,0,0,0
+Investment advice [523930] ,44,38,5,0,1,0,0,0,0
+All other financial investment activities [523990] ,20,18,1,0,0,0,1,0,0
+"Direct individual life, health and medical insurance carriers [524111] ",13,4,5,1,2,0,0,0,1
+"Direct group life, health and medical insurance carriers [524112] ",9,4,0,0,1,0,1,3,0
+Direct general property and casualty insurance carriers [524121] ,10,3,2,3,1,1,0,0,0
+"Direct, private, automobile insurance carriers [524122] ",2,0,1,1,0,0,0,0,0
+"Direct, public, automobile insurance carriers [524123] ",0,0,0,0,0,0,0,0,0
+Direct property insurance carriers [524124] ,1,0,0,1,0,0,0,0,0
+Direct liability insurance carriers [524125] ,0,0,0,0,0,0,0,0,0
+"Other direct insurance (except life, health and medical) carriers [524129] ",10,3,0,0,1,6,0,0,0
+Life reinsurance carriers [524131] ,3,2,1,0,0,0,0,0,0
+Accident and sickness reinsurance carriers [524132] ,0,0,0,0,0,0,0,0,0
+Automobile reinsurance carriers [524133] ,0,0,0,0,0,0,0,0,0
+Property reinsurance carriers [524134] ,0,0,0,0,0,0,0,0,0
+Liability reinsurance carriers [524135] ,0,0,0,0,0,0,0,0,0
+General and other reinsurance carriers [524139] ,0,0,0,0,0,0,0,0,0
+Insurance agencies and brokerages [524210] ,205,106,68,19,11,1,0,0,0
+Claims adjusters [524291] ,32,17,5,4,6,0,0,0,0
+All other insurance related activities [524299] ,20,15,4,0,1,0,0,0,0
+Trusteed pension funds [526111] ,2,0,0,0,0,0,1,0,1
+Non-trusteed pension funds [526112] ,0,0,0,0,0,0,0,0,0
+Equity funds - Canadian [526911] ,0,0,0,0,0,0,0,0,0
+Equity funds - foreign [526912] ,2,2,0,0,0,0,0,0,0
+Mortgage funds [526913] ,1,1,0,0,0,0,0,0,0
+Money market funds [526914] ,0,0,0,0,0,0,0,0,0
+Bond and income / dividend funds - Canadian [526915] ,0,0,0,0,0,0,0,0,0
+Bond and income / dividend funds - foreign [526916] ,0,0,0,0,0,0,0,0,0
+Balanced funds / asset allocation funds [526917] ,0,0,0,0,0,0,0,0,0
+Other open-ended funds [526919] ,0,0,0,0,0,0,0,0,0
+Segregated (except pension) funds [526930] ,0,0,0,0,0,0,0,0,0
+Securitization vehicles [526981] ,0,0,0,0,0,0,0,0,0
+All other miscellaneous funds and financial vehicles [526989] ,8,4,1,2,1,0,0,0,0
+Lessors of residential buildings and dwellings (except social housing projects) [531111] ,177,126,30,13,7,1,0,0,0
+Lessors of social housing projects [531112] ,33,19,3,9,0,1,1,0,0
+Lessors of non-residential buildings (except mini-warehouses) [531120] ,226,167,35,10,9,2,2,1,0
+Self-storage mini-warehouses [531130] ,11,11,0,0,0,0,0,0,0
+Lessors of other real estate property [531190] ,22,17,3,0,1,1,0,0,0
+Real estate agents [531211] ,57,49,6,2,0,0,0,0,0
+Offices of real estate brokers [531212] ,65,52,11,2,0,0,0,0,0
+Real estate property managers [531310] ,55,36,9,4,4,1,1,0,0
+Offices of real estate appraisers [531320] ,19,16,3,0,0,0,0,0,0
+Other activities related to real estate [531390] ,15,11,0,2,2,0,0,0,0
+Passenger car rental [532111] ,37,16,6,14,1,0,0,0,0
+Passenger car leasing [532112] ,3,3,0,0,0,0,0,0,0
+"Truck, utility trailer and RV (recreational vehicle) rental and leasing [532120] ",9,3,1,2,3,0,0,0,0
+Consumer electronics and appliance rental [532210] ,12,11,0,1,0,0,0,0,0
+Formal wear and costume rental [532220] ,1,1,0,0,0,0,0,0,0
+Video tape and disc rental [532230] ,9,3,5,1,0,0,0,0,0
+Other consumer goods rental [532290] ,9,5,2,0,2,0,0,0,0
+General rental centres [532310] ,8,2,5,1,0,0,0,0,0
+"Construction, transportation, mining, and forestry machinery and equipment rental and leasing [532410] ",31,8,20,2,1,0,0,0,0
+Office machinery and equipment rental and leasing [532420] ,2,0,0,2,0,0,0,0,0
+Other commercial and industrial machinery and equipment rental and leasing [532490] ,14,10,2,2,0,0,0,0,0
+Lessors of non-financial intangible assets (except copyrighted works) [533110] ,7,3,1,1,2,0,0,0,0
+Offices of lawyers [541110] ,324,271,29,16,4,3,1,0,0
+Offices of notaries [541120] ,1,1,0,0,0,0,0,0,0
+Other legal services [541190] ,27,26,0,0,0,1,0,0,0
+Offices of  accountants [541212] ,193,131,31,23,4,4,0,0,0
+Tax preparation services [541213] ,43,27,13,3,0,0,0,0,0
+"Bookkeeping, payroll and related services [541215] ",65,57,3,1,2,0,1,0,1
+Architectural services [541310] ,41,27,9,5,0,0,0,0,0
+Landscape architectural services [541320] ,5,4,1,0,0,0,0,0,0
+Engineering services [541330] ,195,111,28,32,17,3,2,2,0
+Drafting services [541340] ,14,11,3,0,0,0,0,0,0
+Building inspection services [541350] ,25,25,0,0,0,0,0,0,0
+Geophysical surveying and mapping services [541360] ,4,4,0,0,0,0,0,0,0
+Surveying and mapping (except geophysical) services [541370] ,28,20,4,1,3,0,0,0,0
+Testing laboratories [541380] ,39,25,3,4,5,1,1,0,0
+Interior design services [541410] ,18,12,4,1,1,0,0,0,0
+Industrial design services [541420] ,4,4,0,0,0,0,0,0,0
+Graphic design services [541430] ,24,20,4,0,0,0,0,0,0
+Other specialized design services [541490] ,2,1,0,1,0,0,0,0,0
+Computer systems design and related services (except video game design and development) [541514] ,202,113,40,23,16,8,1,1,0
+Video game design and development services [541515] ,3,1,1,1,0,0,0,0,0
+Administrative management and general management consulting services [541611] ,80,74,1,4,0,1,0,0,0
+Human resources consulting services [541612] ,16,13,2,0,1,0,0,0,0
+Other management consulting services [541619] ,59,50,5,2,2,0,0,0,0
+Environmental consulting services [541620] ,26,17,4,4,1,0,0,0,0
+Other scientific and technical consulting services [541690] ,60,48,5,4,1,2,0,0,0
+"Research and development in the  physical, engineering and life sciences [541710] ",33,19,4,3,7,0,0,0,0
+Research and development in the  social sciences and humanities [541720] ,6,4,2,0,0,0,0,0,0
+Advertising agencies [541810] ,11,6,2,2,1,0,0,0,0
+Public relations services [541820] ,13,11,1,0,1,0,0,0,0
+Media buying agencies [541830] ,1,1,0,0,0,0,0,0,0
+Media representatives [541840] ,0,0,0,0,0,0,0,0,0
+Display advertising [541850] ,8,7,0,0,1,0,0,0,0
+Direct mail advertising [541860] ,1,1,0,0,0,0,0,0,0
+Advertising material distribution services [541870] ,2,0,2,0,0,0,0,0,0
+Specialty advertising distributors [541891] ,4,3,0,1,0,0,0,0,0
+All other services related to advertising [541899] ,10,8,1,1,0,0,0,0,0
+Marketing research and public opinion polling [541910] ,14,9,1,0,1,3,0,0,0
+Photographic services [541920] ,34,30,2,1,1,0,0,0,0
+Translation and interpretation services [541930] ,10,9,0,0,0,1,0,0,0
+Veterinary services [541940] ,61,22,16,23,0,0,0,0,0
+Computer training [611420] ,6,3,2,0,0,0,0,1,0
+"All other professional, scientific and technical services [541990] ",99,84,6,6,2,1,0,0,0
+Holding companies [551113] ,117,85,10,9,5,3,2,1,2
+Head offices [551114] ,77,18,13,9,20,7,2,8,0
+Office administrative services [561110] ,78,43,12,12,3,5,3,0,0
+Facilities support services [561210] ,5,3,1,0,1,0,0,0,0
+Employment placement agencies and executive search services [561310] ,16,8,1,1,4,1,1,0,0
+Temporary help services [561320] ,22,5,1,0,6,3,5,1,1
+Professional employer organizations [561330] ,2,0,0,0,0,0,1,0,1
+Document preparation services [561410] ,8,6,0,1,0,1,0,0,0
+Telephone call centres [561420] ,34,7,5,2,4,4,3,1,8
+Business service centres [561430] ,5,4,1,0,0,0,0,0,0
+Collection agencies [561440] ,4,0,0,2,2,0,0,0,0
+Credit bureaus [561450] ,0,0,0,0,0,0,0,0,0
+Other business support services [561490] ,26,15,2,7,2,0,0,0,0
+Travel agencies [561510] ,43,35,6,2,0,0,0,0,0
+Tour operators [561520] ,5,2,1,1,1,0,0,0,0
+Other travel arrangement and reservation services [561590] ,8,5,2,1,0,0,0,0,0
+Investigation services [561611] ,12,8,2,0,1,0,1,0,0
+Security guard and patrol services [561612] ,13,4,1,0,2,1,2,2,1
+Armoured car services [561613] ,7,1,1,3,0,2,0,0,0
+Security systems services (except locksmiths) [561621] ,25,12,7,5,0,1,0,0,0
+Locksmiths [561622] ,10,9,1,0,0,0,0,0,0
+Exterminating and pest control services [561710] ,10,8,0,1,1,0,0,0,0
+Window cleaning services [561721] ,4,0,4,0,0,0,0,0,0
+Janitorial services (except window cleaning) [561722] ,138,67,30,16,12,5,6,2,0
+Landscaping services [561730] ,207,105,53,29,19,1,0,0,0
+Carpet and upholstery cleaning services [561740] ,12,8,2,1,1,0,0,0,0
+Duct and chimney cleaning services [561791] ,8,5,1,2,0,0,0,0,0
+All other services to buildings and dwellings [561799] ,23,17,3,1,2,0,0,0,0
+Packaging and labelling services [561910] ,2,0,0,0,1,0,1,0,0
+Convention and trade show organizers [561920] ,5,2,0,2,1,0,0,0,0
+All other support services [561990] ,74,36,17,9,8,2,2,0,0
+Waste collection [562110] ,40,22,11,3,4,0,0,0,0
+Waste treatment and disposal [562210] ,19,6,0,5,7,1,0,0,0
+Remediation services [562910] ,14,8,4,1,1,0,0,0,0
+Material recovery facilities [562920] ,3,0,0,1,2,0,0,0,0
+All other waste management services [562990] ,23,12,4,5,0,2,0,0,0
+Elementary and secondary schools [611110] ,10,2,2,1,3,0,1,0,1
+Community colleges and C.E.G.E.P.s [611210] ,22,2,2,5,5,7,0,0,1
+Universities [611310] ,15,2,1,0,4,3,1,1,3
+Business and secretarial schools [611410] ,1,0,1,0,0,0,0,0,0
+Professional and management development training [611430] ,19,16,2,1,0,0,0,0,0
+Technical and trade schools [611510] ,22,7,4,3,5,1,1,1,0
+Fine arts schools [611610] ,16,7,4,3,1,0,1,0,0
+Athletic instruction [611620] ,20,12,3,3,1,1,0,0,0
+Language schools [611630] ,4,2,0,2,0,0,0,0,0
+All other schools and instruction [611690] ,88,38,25,14,5,5,0,1,0
+Educational support services [611710] ,11,5,3,0,2,1,0,0,0
+Offices of physicians [621110] ,1051,921,106,20,2,2,0,0,0
+Offices of dentists [621210] ,226,71,87,60,8,0,0,0,0
+Offices of chiropractors [621310] ,42,35,7,0,0,0,0,0,0
+Offices of optometrists [621320] ,70,45,19,4,2,0,0,0,0
+Offices of mental health practitioners (except physicians) [621330] ,24,22,1,0,1,0,0,0,0
+"Offices of physical, occupational, and speech therapists and audiologists [621340] ",73,36,19,16,1,1,0,0,0
+Offices of all other health practitioners [621390] ,137,110,21,3,3,0,0,0,0
+Family planning centres [621410] ,3,1,2,0,0,0,0,0,0
+Out-patient mental health and substance abuse centres [621420] ,12,5,3,0,3,1,0,0,0
+Community health centres [621494] ,59,26,14,11,8,0,0,0,0
+All other out-patient care centres [621499] ,33,21,6,5,0,1,0,0,0
+Medical and diagnostic laboratories [621510] ,18,11,6,1,0,0,0,0,0
+Home health care services [621610] ,62,15,7,9,20,6,3,1,1
+Ambulance (except air ambulance) services [621911] ,6,2,1,2,0,0,0,0,1
+Air ambulance services [621912] ,1,0,0,1,0,0,0,0,0
+All other ambulatory health care services [621990] ,4,1,1,0,0,0,2,0,0
+General (except paediatric) hospitals [622111] ,34,6,0,0,3,6,7,4,8
+Paediatric hospitals [622112] ,0,0,0,0,0,0,0,0,0
+Psychiatric and substance abuse hospitals [622210] ,8,0,1,1,4,0,1,1,0
+Specialty (except psychiatric and substance abuse) hospitals [622310] ,3,0,0,0,0,3,0,0,0
+Nursing care facilities [623110] ,134,20,21,25,23,20,20,5,0
+Residential developmental handicap facilities [623210] ,63,20,22,19,2,0,0,0,0
+Residential substance abuse facilities [623221] ,3,1,2,0,0,0,0,0,0
+Homes for the psychiatrically disabled [623222] ,47,8,18,15,4,1,1,0,0
+Community care facilities for the elderly [623310] ,134,23,30,38,22,17,4,0,0
+Transition homes for women [623991] ,7,1,1,5,0,0,0,0,0
+Homes for emotionally disturbed children [623992] ,23,3,6,10,3,1,0,0,0
+Homes for the physically handicapped or disabled [623993] ,17,4,4,9,0,0,0,0,0
+All other residential care facilities [623999] ,46,15,15,11,5,0,0,0,0
+Child and youth services [624110] ,29,10,5,5,8,1,0,0,0
+Services for the elderly and persons with disabilities [624120] ,74,26,10,6,16,8,5,3,0
+Other individual and family services [624190] ,82,35,23,11,9,2,2,0,0
+Community food services [624210] ,24,12,9,1,2,0,0,0,0
+Community housing services [624220] ,6,2,0,3,1,0,0,0,0
+Emergency and other relief services [624230] ,14,0,14,0,0,0,0,0,0
+Vocational rehabilitation services [624310] ,44,13,9,13,3,5,1,0,0
+Child day-care services [624410] ,251,78,70,72,29,1,1,0,0
+Theatre (except musical) companies [711111] ,6,1,0,4,1,0,0,0,0
+Musical theatre and opera companies [711112] ,0,0,0,0,0,0,0,0,0
+Dance companies [711120] ,3,1,1,0,1,0,0,0,0
+Musical groups and artists [711130] ,7,5,2,0,0,0,0,0,0
+Other performing arts companies [711190] ,2,1,0,0,1,0,0,0,0
+Sports teams and clubs [711211] ,9,5,1,0,3,0,0,0,0
+Horse race tracks [711213] ,1,0,0,1,0,0,0,0,0
+Other spectator sports [711218] ,3,1,0,1,1,0,0,0,0
+Live theatres and other performing arts presenters with facilities [711311] ,10,4,3,0,3,0,0,0,0
+Sports stadiums and other presenters with facilities [711319] ,6,3,2,0,0,0,1,0,0
+Performing arts promoters (presenters) without facilities [711321] ,6,5,1,0,0,0,0,0,0
+Festivals without facilities [711322] ,20,14,5,1,0,0,0,0,0
+Sports presenters and other presenters without facilities [711329] ,1,1,0,0,0,0,0,0,0
+"Agents and managers for artists, athletes, entertainers and other public figures [711410] ",1,0,0,1,0,0,0,0,0
+Independent visual artists and artisans [711511] ,3,3,0,0,0,0,0,0,0
+"Independent actors, comedians and performers [711512] ",8,4,2,0,0,1,0,1,0
+Independent writers and authors [711513] ,3,3,0,0,0,0,0,0,0
+Non-commercial art museums and galleries [712111] ,6,2,2,0,2,0,0,0,0
+History and science museums [712115] ,7,4,2,0,1,0,0,0,0
+Other museums [712119] ,19,12,5,1,1,0,0,0,0
+Historic and heritage sites [712120] ,17,11,4,0,0,1,1,0,0
+Zoos and botanical gardens [712130] ,6,1,1,1,3,0,0,0,0
+Nature parks and other similar institutions [712190] ,14,3,6,2,1,1,1,0,0
+Amusement and theme parks [713110] ,4,1,1,0,1,0,1,0,0
+Amusement arcades [713120] ,0,0,0,0,0,0,0,0,0
+Casinos (except casino hotels) [713210] ,2,0,0,0,0,1,0,1,0
+Lotteries [713291] ,13,8,1,3,1,0,0,0,0
+All other gambling industries [713299] ,13,4,4,2,2,0,1,0,0
+Golf courses and country clubs [713910] ,40,4,8,11,15,2,0,0,0
+Skiing facilities [713920] ,6,3,0,0,2,1,0,0,0
+Marinas [713930] ,15,6,6,3,0,0,0,0,0
+Fitness and recreational sports centres [713940] ,77,38,16,17,3,1,1,1,0
+Bowling centres [713950] ,21,11,6,2,1,1,0,0,0
+All other amusement and recreation industries [713990] ,76,45,22,8,1,0,0,0,0
+Hotels [721111] ,71,10,5,16,22,8,7,3,0
+Motor hotels [721112] ,27,4,5,10,6,1,1,0,0
+Resorts [721113] ,7,3,2,1,0,1,0,0,0
+Motels [721114] ,60,21,13,17,9,0,0,0,0
+Casino hotels [721120] ,0,0,0,0,0,0,0,0,0
+Bed and breakfast [721191] ,22,17,1,1,3,0,0,0,0
+Housekeeping cottages and cabins [721192] ,22,16,4,2,0,0,0,0,0
+All other traveller accommodation [721198] ,7,4,2,0,1,0,0,0,0
+Recreational vehicle (RV) parks and campgrounds [721211] ,66,28,21,12,5,0,0,0,0
+Hunting and fishing camps [721212] ,33,20,4,6,3,0,0,0,0
+Recreational (except hunting and fishing) and vacation camps [721213] ,16,9,1,4,2,0,0,0,0
+Rooming and boarding houses [721310] ,9,7,1,0,0,1,0,0,0
+Food service contractors [722310] ,145,108,25,8,2,1,0,1,0
+Caterers [722320] ,24,14,3,6,1,0,0,0,0
+Mobile food services [722330] ,26,16,8,1,1,0,0,0,0
+Drinking places (alcoholic beverages) [722410] ,116,39,50,18,8,1,0,0,0
+Full-service restaurants [722511] ,513,100,126,129,125,30,3,0,0
+Limited-service eating places [722512] ,613,102,131,172,167,34,5,2,0
+General automotive repair [811111] ,324,234,67,17,5,0,1,0,0
+Automotive exhaust system repair [811112] ,12,11,1,0,0,0,0,0,0
+Other automotive mechanical and electrical repair and maintenance [811119] ,34,20,9,3,2,0,0,0,0
+"Automotive body, paint and interior repair and maintenance [811121] ",128,96,19,11,2,0,0,0,0
+Automotive glass replacement shops [811122] ,41,35,5,1,0,0,0,0,0
+Car washes [811192] ,30,23,5,1,1,0,0,0,0
+All other automotive repair and maintenance [811199] ,19,13,4,1,1,0,0,0,0
+Electronic and precision equipment repair and maintenance [811210] ,27,19,0,6,1,0,1,0,0
+Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance [811310] ,155,86,35,18,13,2,1,0,0
+Home and garden equipment repair and maintenance [811411] ,15,13,1,0,1,0,0,0,0
+Appliance repair and maintenance [811412] ,26,20,3,1,1,1,0,0,0
+Reupholstery and furniture repair [811420] ,10,10,0,0,0,0,0,0,0
+Footwear and leather goods repair [811430] ,3,2,0,1,0,0,0,0,0
+Other personal and household goods repair and maintenance [811490] ,32,23,6,1,2,0,0,0,0
+Barber shops [812114] ,15,10,3,2,0,0,0,0,0
+Beauty salons [812115] ,106,62,27,12,3,2,0,0,0
+Unisex hair salons [812116] ,71,29,34,3,5,0,0,0,0
+Other personal care services [812190] ,48,33,10,2,3,0,0,0,0
+Funeral homes [812210] ,62,27,24,9,2,0,0,0,0
+Cemeteries and crematoria [812220] ,22,16,3,3,0,0,0,0,0
+Coin-operated laundries and dry cleaners [812310] ,5,4,1,0,0,0,0,0,0
+Dry cleaning and laundry services (except coin-operated) [812320] ,15,6,3,2,3,1,0,0,0
+Linen and uniform supply [812330] ,1,0,0,1,0,0,0,0,0
+Pet care (except veterinary) services [812910] ,22,15,5,2,0,0,0,0,0
+Photo finishing laboratories (except one-hour) [812921] ,0,0,0,0,0,0,0,0,0
+One-hour photo finishing [812922] ,0,0,0,0,0,0,0,0,0
+Parking lots and garages [812930] ,4,3,1,0,0,0,0,0,0
+All other personal services [812990] ,31,27,2,1,0,1,0,0,0
+Religious organizations [813110] ,529,417,69,26,7,6,3,1,0
+Grant-making and giving services [813210] ,77,48,13,13,3,0,0,0,0
+Social advocacy organizations [813310] ,74,40,19,8,6,1,0,0,0
+Civic and social organizations [813410] ,257,141,66,28,15,5,1,1,0
+Business associations [813910] ,90,62,13,13,2,0,0,0,0
+Professional organizations [813920] ,53,33,10,7,2,1,0,0,0
+Labour organizations [813930] ,55,32,14,3,5,1,0,0,0
+Political organizations [813940] ,3,2,1,0,0,0,0,0,0
+Other membership organizations [813990] ,39,26,9,3,1,0,0,0,0
+Private households [814110] ,40,31,8,0,1,0,0,0,0
+Defence services [911110] ,2,0,0,1,0,0,0,0,1
+Federal courts of law [911210] ,2,2,0,0,0,0,0,0,0
+Federal correctional services [911220] ,2,0,0,0,1,0,0,0,1
+Federal police services [911230] ,1,0,0,0,0,0,0,0,1
+Federal regulatory services [911240] ,0,0,0,0,0,0,0,0,0
+Other federal protective services [911290] ,0,0,0,0,0,0,0,0,0
+Federal labour and employment services [911310] ,2,0,0,0,1,0,0,0,1
+Immigration services [911320] ,2,1,0,0,1,0,0,0,0
+"Other federal labour, employment and immigration services [911390] ",0,0,0,0,0,0,0,0,0
+Foreign affairs [911410] ,1,1,0,0,0,0,0,0,0
+International assistance [911420] ,0,0,0,0,0,0,0,0,0
+Other federal government public administration [911910] ,28,6,5,2,3,3,2,5,2
+Provincial courts of law [912110] ,5,0,0,0,2,1,0,2,0
+Provincial correctional services [912120] ,3,1,0,0,0,2,0,0,0
+Provincial police services [912130] ,2,1,0,1,0,0,0,0,0
+Provincial fire-fighting services [912140] ,1,0,0,0,0,1,0,0,0
+Provincial regulatory services [912150] ,12,2,4,0,5,0,0,1,0
+Other provincial protective services [912190] ,0,0,0,0,0,0,0,0,0
+Provincial labour and employment services [912210] ,2,0,0,0,1,0,1,0,0
+Other provincial and territorial public administration [912910] ,106,15,14,26,24,14,6,4,3
+Municipal courts of law [913110] ,0,0,0,0,0,0,0,0,0
+Municipal correctional services [913120] ,0,0,0,0,0,0,0,0,0
+Municipal police services [913130] ,5,2,0,0,2,0,0,1,0
+Municipal fire-fighting services [913140] ,2,0,0,0,1,0,0,1,0
+Municipal regulatory services [913150] ,1,1,0,0,0,0,0,0,0
+Other municipal protective services [913190] ,1,0,0,1,0,0,0,0,0
+"Other local, municipal and regional public administration [913910] ",135,20,26,31,29,13,10,4,2
+Aboriginal public administration [914110] ,18,0,0,2,5,1,6,4,0
+International and other extra-territorial public administration [919110] ,1,0,1,0,0,0,0,0,0

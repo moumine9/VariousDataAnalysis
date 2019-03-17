@@ -1,0 +1,54 @@
+﻿"Average weekly earnings by industry, annual" 1 2 3 4
+"Annual"
+"Table: 14-10-0204-01 (formerly CANSIM 281-0027)"
+"Geography: Canada, Province or territory"
+
+"","New Brunswick",,,,
+"","All employees 5",,,,
+"","Excluding overtime",,,,
+"North American Industry Classification System (NAICS)4","2013","2014","2015","2016","2017"
+"","Current dollars",,,,
+"Industrial aggregate excluding unclassified businesses 6 7","787.44A","814.73A","836.23A","856.97A","865.96A"
+"Goods producing industries 8","909.50A","932.50A","948.81A","976.73A","1,000.75A"
+"Forestry, logging and support 9","864.12A","F","885.17A","928.76A","F"
+"Mining, quarrying, and oil and gas extraction","x","x","x","x","x"
+"Utilities","x","x","x","x","x"
+"Construction","906.25A","928.85A","950.72A","957.63A","971.66A"
+"Manufacturing","834.74A","867.60A","880.44A","904.12A","933.72A"
+"Service producing industries 10","760.67A","789.10A","811.31A","830.77A","836.38A"
+"Trade 11","583.08A","619.45A","629.77A","644.81A","628.20A"
+"Transportation and warehousing","875.65A","891.33A","928.23A","922.42A","973.40A"
+"Information and cultural industries","1,100.71A","1,153.41A","1,182.70A","1,284.16A","1,225.86A"
+"Finance and insurance","975.40A","1,003.39A","1,046.08A","1,088.32A","1,055.13B"
+"Real estate and rental and leasing","..","..","..","..",".."
+"Professional, scientific and technical services","1,092.16A","1,129.78A","1,203.88A","1,164.63A","1,159.18A"
+"Management of companies and enterprises","F","F","F","F","F"
+"Administrative and support, waste management and remediation services","575.08A","608.45A","630.61A","647.57A","642.11B"
+"Educational services","998.40A","1,044.50A","F","1,058.45A","1,062.36A"
+"Health care and social assistance","761.71A","778.07A","796.00A","851.11A","868.42A"
+"Arts, entertainment and recreation","542.25A","575.08A","591.61A","584.44A","560.36A"
+"Accommodation and food services","353.99A","353.38A","357.59A","363.88A","366.18A"
+"Other services (except public administration)","683.90A","678.13A","662.17A","672.79A","690.41A"
+"Public administration","1,082.97A","1,112.62A","1,121.05A","1,128.41A","1,137.99A"
+
+A  : data quality: excellent,
+F  : too unreliable to be published.,
+x  : suppressed to meet the confidentiality requirements of the Statistics Act,
+B  : data quality: very good,
+..  : not available for a specific reference period,
+
+Footnotes:
+1,Data quality indicators are based on the coefficient of variation (CV). Quality indicators indicate the following: A - Excellent (CV from 0% to 4.99%); B - Very good (CV from 5% to 9.99%); C - Good (CV from 10% to 14.99%); D - Acceptable (CV from 15% to 24.99%); E - Use with caution (CV from 25% to 34.99%); F - Too unreliable to publish (CV greater than or equal to 35% or sample size is too small to produce reliable estimates).
+2,The introduction of administrative data in 2001 and the associated change in methodology resulted in level shifts for some series. This affects the comparability of pre- and post-2001 estimates.
+3,Earnings data are based on gross payroll before source deductions.
+4,Industry estimates in this table are based on the 2017 North American Industry Classification System (NAICS) Version 2.0.
+5,"""All employees"" is the sum of employees paid by the hour, salaried employees and other employees."
+6,"Industrial aggregate covers all industrial sectors except those primarily involved in agriculture, fishing and trapping, private household services, religious organisations and the military personnel of the defence services."
+7,Unclassified businesses (00) are businesses for which the industrial classification (North American Industry Classification System [NAICS] 2017 Version 2.0) has yet to be determined.
+8,"Goods producing industries (11-33N) includes the following sectors: forestry, logging and support (11N), mining, quarrying, and oil and gas extraction (21), utilities (22), construction (23) and manufacturing (31-33)."
+9,"Forestry, logging and support (11N) includes the following industries: forestry and logging (113) and support activities for forestry (1153)."
+10,"Service producing industries (41-91N) includes the following industries: trade (41-45N), transportation and warehousing (48-49), information and cultural industries (51), finance and insurance (52), real estate and rental and leasing (53), professional, scientific and technical services (54), management of companies and enterprises (55), administrative and support, waste management and remediation services (56), educational services (61), health care and social assistance (62), arts, entertainment and recreation (71), accommodation and food services (72), other services (except public administration) (81) and public administration (91)."
+11,Trade (41-45N) industry includes the following sectors: wholesale trade (41) and retail trade (44-45).
+
+"How to cite: Statistics Canada. Table 14-10-0204-01 Average weekly earnings by industry, annual"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020401
